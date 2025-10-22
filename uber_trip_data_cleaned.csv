@@ -1,0 +1,945 @@
+start_date,end_date,category,start,stop,miles,purpose,route,month,duration,week name,month number,hours,time of day
+2016-01-01 21:11:00,2016-01-01 21:17:00,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,Fort Pierce ➝ Fort Pierce,January,0 days 23:54:00,Friday,1,21,Night
+2016-01-02 01:25:00,2016-01-02 01:37:00,Business,Fort Pierce,Fort Pierce,5.0,,Fort Pierce ➝ Fort Pierce,January,0 days 23:48:00,Saturday,1,1,Night
+2016-01-02 20:25:00,2016-01-02 20:38:00,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,Fort Pierce ➝ Fort Pierce,January,0 days 23:47:00,Saturday,1,20,Evening
+2016-01-05 17:31:00,2016-01-05 17:45:00,Business,Fort Pierce,Fort Pierce,4.7,Meeting,Fort Pierce ➝ Fort Pierce,January,0 days 23:46:00,Tuesday,1,17,Evening
+2016-01-06 14:42:00,2016-01-06 15:49:00,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,Fort Pierce ➝ West Palm Beach,January,0 days 22:53:00,Wednesday,1,14,Afternoon
+2016-01-06 17:15:00,2016-01-06 17:19:00,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,West Palm Beach ➝ West Palm Beach,January,0 days 23:56:00,Wednesday,1,17,Evening
+2016-01-06 17:30:00,2016-01-06 17:35:00,Business,West Palm Beach,Palm Beach,7.1,Meeting,West Palm Beach ➝ Palm Beach,January,0 days 23:55:00,Wednesday,1,17,Evening
+2016-01-07 13:27:00,2016-01-07 13:33:00,Business,Cary,Cary,0.8,Meeting,Cary ➝ Cary,January,0 days 23:54:00,Thursday,1,13,Afternoon
+2016-01-10 08:05:00,2016-01-10 08:25:00,Business,Cary,Morrisville,8.3,Meeting,Cary ➝ Morrisville,January,0 days 23:40:00,Sunday,1,8,Morning
+2016-01-10 12:17:00,2016-01-10 12:44:00,Business,Jamaica,New York,16.5,Customer Visit,Jamaica ➝ New York,January,0 days 23:33:00,Sunday,1,12,Afternoon
+2016-01-10 15:08:00,2016-01-10 15:51:00,Business,New York,Queens,10.8,Meeting,New York ➝ Queens,January,0 days 23:17:00,Sunday,1,15,Afternoon
+2016-01-10 18:18:00,2016-01-10 18:53:00,Business,Elmhurst,New York,7.5,Meeting,Elmhurst ➝ New York,January,0 days 23:25:00,Sunday,1,18,Evening
+2016-01-10 19:12:00,2016-01-10 19:32:00,Business,Midtown,East Harlem,6.2,Meeting,Midtown ➝ East Harlem,January,0 days 23:40:00,Sunday,1,19,Evening
+2016-01-11 08:55:00,2016-01-11 09:21:00,Business,East Harlem,NoMad,6.4,Temporary Site,East Harlem ➝ NoMad,January,0 days 23:34:00,Monday,1,8,Morning
+2016-01-11 11:56:00,2016-01-11 12:03:00,Business,Flatiron District,Midtown,1.6,Errand/Supplies,Flatiron District ➝ Midtown,January,0 days 23:53:00,Monday,1,11,Morning
+2016-01-11 13:32:00,2016-01-11 13:46:00,Business,Midtown,Midtown East,1.7,Meal/Entertain,Midtown ➝ Midtown East,January,0 days 23:46:00,Monday,1,13,Afternoon
+2016-01-11 14:30:00,2016-01-11 14:43:00,Business,Midtown East,Midtown,1.9,Meal/Entertain,Midtown East ➝ Midtown,January,0 days 23:47:00,Monday,1,14,Afternoon
+2016-01-12 12:33:00,2016-01-12 12:49:00,Business,Midtown,Hudson Square,1.9,Meal/Entertain,Midtown ➝ Hudson Square,January,0 days 23:44:00,Tuesday,1,12,Afternoon
+2016-01-12 12:53:00,2016-01-12 13:09:00,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,Hudson Square ➝ Lower Manhattan,January,0 days 23:44:00,Tuesday,1,12,Afternoon
+2016-01-12 14:42:00,2016-01-12 14:56:00,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,Lower Manhattan ➝ Hudson Square,January,0 days 23:46:00,Tuesday,1,14,Afternoon
+2016-01-12 15:13:00,2016-01-12 15:28:00,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,Hudson Square ➝ Hell's Kitchen,January,0 days 23:45:00,Tuesday,1,15,Afternoon
+2016-01-12 15:42:00,2016-01-12 15:54:00,Business,Hell's Kitchen,Midtown,2.0,Errand/Supplies,Hell's Kitchen ➝ Midtown,January,0 days 23:48:00,Tuesday,1,15,Afternoon
+2016-01-12 16:02:00,2016-01-12 17:00:00,Business,New York,Queens County,15.1,Meeting,New York ➝ Queens County,January,0 days 23:02:00,Tuesday,1,16,Afternoon
+2016-01-13 13:54:00,2016-01-13 14:07:00,Business,Downtown,Gulfton,11.2,Meeting,Downtown ➝ Gulfton,January,0 days 23:47:00,Wednesday,1,13,Afternoon
+2016-01-13 15:00:00,2016-01-13 15:28:00,Business,Gulfton,Downtown,11.8,Meeting,Gulfton ➝ Downtown,January,0 days 23:32:00,Wednesday,1,15,Afternoon
+2016-01-14 16:29:00,2016-01-14 17:05:00,Business,Houston,Houston,21.9,Customer Visit,Houston ➝ Houston,January,0 days 23:24:00,Thursday,1,16,Afternoon
+2016-01-14 21:39:00,2016-01-14 21:45:00,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,Eagan Park ➝ Jamestown Court,January,0 days 23:54:00,Thursday,1,21,Night
+2016-01-15 00:41:00,2016-01-15 01:01:00,Business,Morrisville,Cary,8.0,Errand/Supplies,Morrisville ➝ Cary,January,0 days 23:40:00,Friday,1,0,Night
+2016-01-15 11:43:00,2016-01-15 12:03:00,Business,Cary,Durham,10.4,Meal/Entertain,Cary ➝ Durham,January,0 days 23:40:00,Friday,1,11,Morning
+2016-01-15 13:26:00,2016-01-15 13:44:00,Business,Durham,Cary,10.4,Meal/Entertain,Durham ➝ Cary,January,0 days 23:42:00,Friday,1,13,Afternoon
+2016-01-18 14:55:00,2016-01-18 15:06:00,Business,Cary,Cary,4.8,Meal/Entertain,Cary ➝ Cary,January,0 days 23:49:00,Monday,1,14,Afternoon
+2016-01-18 16:13:00,2016-01-18 16:24:00,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,Farmington Woods ➝ Whitebridge,January,0 days 23:49:00,Monday,1,16,Afternoon
+2016-01-19 09:09:00,2016-01-19 09:23:00,Business,Whitebridge,Lake Wellingborough,7.2,,Whitebridge ➝ Lake Wellingborough,January,0 days 23:46:00,Tuesday,1,9,Morning
+2016-01-19 10:55:00,2016-01-19 11:09:00,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,Lake Wellingborough ➝ Whitebridge,January,0 days 23:46:00,Tuesday,1,10,Morning
+2016-01-20 10:36:00,2016-01-20 11:11:00,Business,Cary,Raleigh,17.1,Meeting,Cary ➝ Raleigh,January,0 days 23:25:00,Wednesday,1,10,Morning
+2016-01-20 11:48:00,2016-01-20 12:19:00,Business,Fayetteville Street,Umstead,15.1,Meeting,Fayetteville Street ➝ Umstead,January,0 days 23:29:00,Wednesday,1,11,Morning
+2016-01-20 13:25:00,2016-01-20 14:19:00,Business,Raleigh,Cary,40.2,Customer Visit,Raleigh ➝ Cary,January,0 days 23:06:00,Wednesday,1,13,Afternoon
+2016-01-21 14:25:00,2016-01-21 14:29:00,Business,Cary,Cary,1.6,Errand/Supplies,Cary ➝ Cary,January,0 days 23:56:00,Thursday,1,14,Afternoon
+2016-01-21 14:43:00,2016-01-21 14:51:00,Business,Cary,Cary,2.4,Meal/Entertain,Cary ➝ Cary,January,0 days 23:52:00,Thursday,1,14,Afternoon
+2016-01-21 16:01:00,2016-01-21 16:06:00,Business,Cary,Cary,1.0,Meal/Entertain,Cary ➝ Cary,January,0 days 23:55:00,Thursday,1,16,Afternoon
+2016-01-26 10:41:00,2016-01-26 10:50:00,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,Whitebridge ➝ Hazelwood,January,0 days 23:51:00,Tuesday,1,10,Morning
+2016-01-26 12:33:00,2016-01-26 12:41:00,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,Hazelwood ➝ Whitebridge,January,0 days 23:52:00,Tuesday,1,12,Afternoon
+2016-01-26 16:24:00,2016-01-26 16:32:00,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,Whitebridge ➝ Westpark Place,January,0 days 23:52:00,Tuesday,1,16,Afternoon
+2016-01-26 17:17:00,2016-01-26 17:22:00,Business,Cary,Cary,1.4,Errand/Supplies,Cary ➝ Cary,January,0 days 23:55:00,Tuesday,1,17,Evening
+2016-01-26 17:27:00,2016-01-26 17:29:00,Business,Cary,Cary,0.5,Errand/Supplies,Cary ➝ Cary,January,0 days 23:58:00,Tuesday,1,17,Evening
+2016-01-27 09:24:00,2016-01-27 09:31:00,Business,Cary,Cary,1.8,Meeting,Cary ➝ Cary,January,0 days 23:53:00,Wednesday,1,9,Morning
+2016-01-27 10:19:00,2016-01-27 10:48:00,Business,Cary,Raleigh,18.7,Customer Visit,Cary ➝ Raleigh,January,0 days 23:31:00,Wednesday,1,10,Morning
+2016-01-27 12:34:00,2016-01-27 12:44:00,Business,Fairmont,Meredith Townes,3.4,Customer Visit,Fairmont ➝ Meredith Townes,January,0 days 23:50:00,Wednesday,1,12,Afternoon
+2016-01-27 14:05:00,2016-01-27 14:13:00,Business,Raleigh,Raleigh,2.7,Customer Visit,Raleigh ➝ Raleigh,January,0 days 23:52:00,Wednesday,1,14,Afternoon
+2016-01-27 14:46:00,2016-01-27 15:08:00,Business,Raleigh,Cary,12.9,Customer Visit,Raleigh ➝ Cary,January,0 days 23:38:00,Wednesday,1,14,Afternoon
+2016-01-28 12:28:00,2016-01-28 13:00:00,Business,Cary,Raleigh,19.0,Temporary Site,Cary ➝ Raleigh,January,0 days 23:28:00,Thursday,1,12,Afternoon
+2016-01-28 15:11:00,2016-01-28 15:31:00,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,Meredith Townes ➝ Leesville Hollow,January,0 days 23:40:00,Thursday,1,15,Afternoon
+2016-01-28 16:21:00,2016-01-28 16:51:00,Business,Raleigh,Cary,15.7,Meeting,Raleigh ➝ Cary,January,0 days 23:30:00,Thursday,1,16,Afternoon
+2016-01-29 09:31:00,2016-01-29 09:45:00,Business,Cary,Cary,4.6,Customer Visit,Cary ➝ Cary,January,0 days 23:46:00,Friday,1,9,Morning
+2016-01-29 10:56:00,2016-01-29 11:07:00,Business,Cary,Cary,5.2,Meeting,Cary ➝ Cary,January,0 days 23:49:00,Friday,1,10,Morning
+2016-01-29 11:43:00,2016-01-29 12:03:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,January,0 days 23:40:00,Friday,1,11,Morning
+2016-01-29 13:24:00,2016-01-29 13:47:00,Business,Durham,Cary,10.1,Meeting,Durham ➝ Cary,January,0 days 23:37:00,Friday,1,13,Afternoon
+2016-01-29 18:31:00,2016-01-29 18:52:00,Business,Cary,Apex,5.8,Errand/Supplies,Cary ➝ Apex,January,0 days 23:39:00,Friday,1,18,Evening
+2016-01-29 21:21:00,2016-01-29 21:40:00,Business,Apex,Cary,5.5,Meal/Entertain,Apex ➝ Cary,January,0 days 23:41:00,Friday,1,21,Night
+2016-01-30 16:21:00,2016-01-30 16:33:00,Business,Cary,Apex,5.7,Errand/Supplies,Cary ➝ Apex,January,0 days 23:48:00,Saturday,1,16,Afternoon
+2016-01-30 18:09:00,2016-01-30 18:24:00,Business,Apex,Cary,5.7,Customer Visit,Apex ➝ Cary,January,0 days 23:45:00,Saturday,1,18,Evening
+2016-02-01 10:35:00,2016-02-01 11:15:00,Business,Cary,Chapel Hill,19.4,Customer Visit,Cary ➝ Chapel Hill,February,0 days 23:20:00,Monday,2,10,Morning
+2016-02-01 12:10:00,2016-02-01 12:43:00,Business,Chapel Hill,Cary,23.3,Customer Visit,Chapel Hill ➝ Cary,February,0 days 23:27:00,Monday,2,12,Afternoon
+2016-02-01 12:56:00,2016-02-01 13:07:00,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,Northwoods ➝ Whitebridge,February,0 days 23:49:00,Monday,2,12,Afternoon
+2016-02-02 13:04:00,2016-02-02 13:23:00,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,Whitebridge ➝ Williamsburg Manor,February,0 days 23:41:00,Tuesday,2,13,Afternoon
+2016-02-02 13:51:00,2016-02-02 14:06:00,Business,Cary,Cary,6.0,Errand/Supplies,Cary ➝ Cary,February,0 days 23:45:00,Tuesday,2,13,Afternoon
+2016-02-02 14:38:00,2016-02-02 14:42:00,Business,Cary,Cary,1.6,Errand/Supplies,Cary ➝ Cary,February,0 days 23:56:00,Tuesday,2,14,Afternoon
+2016-02-04 08:40:00,2016-02-04 09:01:00,Business,Cary,Morrisville,5.2,Errand/Supplies,Cary ➝ Morrisville,February,0 days 23:39:00,Thursday,2,8,Morning
+2016-02-04 09:37:00,2016-02-04 10:09:00,Business,Morrisville,Cary,9.7,Meal/Entertain,Morrisville ➝ Cary,February,0 days 23:28:00,Thursday,2,9,Morning
+2016-02-04 10:26:00,2016-02-04 10:32:00,Business,Cary,Cary,1.6,Meal/Entertain,Cary ➝ Cary,February,0 days 23:54:00,Thursday,2,10,Morning
+2016-02-04 15:59:00,2016-02-04 16:03:00,Business,Cary,Cary,1.1,Meal/Entertain,Cary ➝ Cary,February,0 days 23:56:00,Thursday,2,15,Afternoon
+2016-02-04 16:35:00,2016-02-04 16:39:00,Business,Cary,Cary,1.6,Meal/Entertain,Cary ➝ Cary,February,0 days 23:56:00,Thursday,2,16,Afternoon
+2016-02-04 18:04:00,2016-02-04 18:31:00,Business,Whitebridge,Macgregor Downs,9.0,Meeting,Whitebridge ➝ Macgregor Downs,February,0 days 23:33:00,Thursday,2,18,Evening
+2016-02-04 20:36:00,2016-02-04 20:55:00,Business,Cary,Cary,7.7,Meeting,Cary ➝ Cary,February,0 days 23:41:00,Thursday,2,20,Evening
+2016-02-05 11:47:00,2016-02-05 12:07:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,February,0 days 23:40:00,Friday,2,11,Morning
+2016-02-05 13:22:00,2016-02-05 13:41:00,Business,Durham,Cary,10.4,Meeting,Durham ➝ Cary,February,0 days 23:41:00,Friday,2,13,Afternoon
+2016-02-06 16:20:00,2016-02-06 16:53:00,Business,Cary,Raleigh,11.4,Between Offices,Cary ➝ Raleigh,February,0 days 23:27:00,Saturday,2,16,Afternoon
+2016-02-06 18:57:00,2016-02-06 19:21:00,Business,Raleigh,Cary,9.0,Errand/Supplies,Raleigh ➝ Cary,February,0 days 23:36:00,Saturday,2,18,Evening
+2016-02-06 19:28:00,2016-02-06 19:37:00,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,Edgehill Farms ➝ Whitebridge,February,0 days 23:51:00,Saturday,2,19,Evening
+2016-02-07 16:49:00,2016-02-07 17:01:00,Business,Cary,Apex,5.6,Errand/Supplies,Cary ➝ Apex,February,0 days 23:48:00,Sunday,2,16,Afternoon
+2016-02-07 18:03:00,2016-02-07 18:17:00,Business,Apex,Cary,5.7,Customer Visit,Apex ➝ Cary,February,0 days 23:46:00,Sunday,2,18,Evening
+2016-02-07 18:39:00,2016-02-07 18:53:00,Business,Cary,Morrisville,6.1,Temporary Site,Cary ➝ Morrisville,February,0 days 23:46:00,Sunday,2,18,Evening
+2016-02-07 20:22:00,2016-02-07 20:40:00,Business,Morrisville,Cary,6.1,Meeting,Morrisville ➝ Cary,February,0 days 23:42:00,Sunday,2,20,Evening
+2016-02-08 12:57:00,2016-02-08 13:08:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,Whitebridge ➝ Edgehill Farms,February,0 days 23:49:00,Monday,2,12,Afternoon
+2016-02-08 14:00:00,2016-02-08 14:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,Edgehill Farms ➝ Whitebridge,February,0 days 23:50:00,Monday,2,14,Afternoon
+2016-02-09 10:54:00,2016-02-09 11:07:00,Personal,Whitebridge,Northwoods,5.3,,Whitebridge ➝ Northwoods,February,0 days 23:47:00,Tuesday,2,10,Morning
+2016-02-09 11:43:00,2016-02-09 11:50:00,Personal,Northwoods,Tanglewood,3.0,,Northwoods ➝ Tanglewood,February,0 days 23:53:00,Tuesday,2,11,Morning
+2016-02-09 13:36:00,2016-02-09 13:52:00,Personal,Tanglewood,Preston,5.1,,Tanglewood ➝ Preston,February,0 days 23:44:00,Tuesday,2,13,Afternoon
+2016-02-09 13:58:00,2016-02-09 14:02:00,Personal,Preston,Whitebridge,1.5,,Preston ➝ Whitebridge,February,0 days 23:56:00,Tuesday,2,13,Afternoon
+2016-02-09 18:55:00,2016-02-09 19:11:00,Business,Cary,Morrisville,6.1,,Cary ➝ Morrisville,February,0 days 23:44:00,Tuesday,2,18,Evening
+2016-02-09 20:24:00,2016-02-09 20:40:00,Business,Morrisville,Cary,6.1,Meal/Entertain,Morrisville ➝ Cary,February,0 days 23:44:00,Tuesday,2,20,Evening
+2016-02-11 16:28:00,2016-02-11 17:10:00,Business,Cary,Raleigh,17.3,Meal/Entertain,Cary ➝ Raleigh,February,0 days 23:18:00,Thursday,2,16,Afternoon
+2016-02-11 17:49:00,2016-02-11 18:10:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,Eastgate ➝ Walnut Terrace,February,0 days 23:39:00,Thursday,2,17,Evening
+2016-02-11 18:24:00,2016-02-11 18:46:00,Business,Raleigh,Morrisville,13.5,Temporary Site,Raleigh ➝ Morrisville,February,0 days 23:38:00,Thursday,2,18,Evening
+2016-02-11 20:36:00,2016-02-11 20:51:00,Business,Morrisville,Cary,6.1,Temporary Site,Morrisville ➝ Cary,February,0 days 23:45:00,Thursday,2,20,Evening
+2016-02-12 08:21:00,2016-02-12 08:42:00,Business,Cary,Durham,8.5,Temporary Site,Cary ➝ Durham,February,0 days 23:39:00,Friday,2,8,Morning
+2016-02-12 10:45:00,2016-02-12 10:52:00,Business,Durham,Morrisville,2.6,Temporary Site,Durham ➝ Morrisville,February,0 days 23:53:00,Friday,2,10,Morning
+2016-02-12 11:14:00,2016-02-12 11:35:00,Business,Morrisville,Raleigh,17.0,Customer Visit,Morrisville ➝ Raleigh,February,0 days 23:39:00,Friday,2,11,Morning
+2016-02-12 13:02:00,2016-02-12 13:36:00,Business,Raleigh,Cary,18.0,Meeting,Raleigh ➝ Cary,February,0 days 23:26:00,Friday,2,13,Afternoon
+2016-02-12 14:49:00,2016-02-12 15:06:00,Business,Cary,Morrisville,8.4,Meeting,Cary ➝ Morrisville,February,0 days 23:43:00,Friday,2,14,Afternoon
+2016-02-12 15:33:00,2016-02-12 16:06:00,Business,Morrisville,Cary,11.5,Customer Visit,Morrisville ➝ Cary,February,0 days 23:27:00,Friday,2,15,Afternoon
+2016-02-13 14:21:00,2016-02-13 14:41:00,Business,Cary,Morrisville,8.9,Meeting,Cary ➝ Morrisville,February,0 days 23:40:00,Saturday,2,14,Afternoon
+2016-02-13 23:45:00,2016-02-14 00:01:00,Personal,East Elmhurst,Jackson Heights,2.7,,East Elmhurst ➝ Jackson Heights,February,0 days 23:44:00,Saturday,2,23,Night
+2016-02-14 00:50:00,2016-02-14 01:00:00,Personal,Jackson Heights,East Elmhurst,1.8,,Jackson Heights ➝ East Elmhurst,February,0 days 23:50:00,Sunday,2,0,Night
+2016-02-14 14:07:00,2016-02-14 14:40:00,Business,East Elmhurst,New York,8.1,Meeting,East Elmhurst ➝ New York,February,0 days 23:27:00,Sunday,2,14,Afternoon
+2016-02-14 14:46:00,2016-02-14 15:03:00,Business,Midtown,Midtown West,2.0,Meeting,Midtown ➝ Midtown West,February,0 days 23:43:00,Sunday,2,14,Afternoon
+2016-02-14 16:35:00,2016-02-14 17:02:00,Business,New York,Long Island City,13.0,Meeting,New York ➝ Long Island City,February,0 days 23:33:00,Sunday,2,16,Afternoon
+2016-02-14 17:06:00,2016-02-14 17:29:00,Business,Long Island City,Jamaica,13.9,Meeting,Long Island City ➝ Jamaica,February,0 days 23:37:00,Sunday,2,17,Evening
+2016-02-16 10:31:00,2016-02-16 10:41:00,Business,Colombo,Colombo,2.6,,Colombo ➝ Colombo,February,0 days 23:50:00,Tuesday,2,10,Morning
+2016-02-16 11:32:00,2016-02-16 12:02:00,Business,Colombo,Colombo,4.5,,Colombo ➝ Colombo,February,0 days 23:30:00,Tuesday,2,11,Morning
+2016-02-16 12:39:00,2016-02-16 12:42:00,Business,Colombo,Colombo,1.7,,Colombo ➝ Colombo,February,0 days 23:57:00,Tuesday,2,12,Afternoon
+2016-02-16 13:43:00,2016-02-16 13:55:00,Business,Colombo,Colombo,1.8,Temporary Site,Colombo ➝ Colombo,February,0 days 23:48:00,Tuesday,2,13,Afternoon
+2016-02-16 16:34:00,2016-02-16 17:10:00,Business,Colombo,Colombo,6.0,,Colombo ➝ Colombo,February,0 days 23:24:00,Tuesday,2,16,Afternoon
+2016-02-16 17:17:00,2016-02-16 17:26:00,Business,Colombo,Nugegoda,1.1,Meal/Entertain,Colombo ➝ Nugegoda,February,0 days 23:51:00,Tuesday,2,17,Evening
+2016-02-17 15:17:00,2016-02-17 15:22:00,Business,Colombo,Colombo,1.7,Meal/Entertain,Colombo ➝ Colombo,February,0 days 23:55:00,Wednesday,2,15,Afternoon
+2016-02-17 15:33:00,2016-02-17 16:17:00,Business,Colombo,Katunayaka,21.4,Temporary Site,Colombo ➝ Katunayaka,February,0 days 23:16:00,Wednesday,2,15,Afternoon
+2016-02-17 16:38:00,2016-02-17 16:43:00,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,Katunayaka ➝ Katunayaka,February,0 days 23:55:00,Wednesday,2,16,Afternoon
+2016-02-19 11:20:00,2016-02-19 11:26:00,Personal,Islamabad,Islamabad,1.5,,Islamabad ➝ Islamabad,February,0 days 23:54:00,Friday,2,11,Morning
+2016-02-19 11:45:00,2016-02-19 11:50:00,Personal,Islamabad,Islamabad,1.0,,Islamabad ➝ Islamabad,February,0 days 23:55:00,Friday,2,11,Morning
+2016-02-19 17:09:00,2016-02-19 17:20:00,Business,Islamabad,Islamabad,4.2,,Islamabad ➝ Islamabad,February,0 days 23:49:00,Friday,2,17,Evening
+2016-02-20 10:48:00,2016-02-20 10:56:00,Personal,Islamabad,Islamabad,3.0,,Islamabad ➝ Islamabad,February,0 days 23:52:00,Saturday,2,10,Morning
+2016-02-20 11:45:00,2016-02-20 11:53:00,Personal,Islamabad,Islamabad,1.5,,Islamabad ➝ Islamabad,February,0 days 23:52:00,Saturday,2,11,Morning
+2016-02-20 12:41:00,2016-02-20 13:17:00,Business,Islamabad,R?walpindi,18.4,,Islamabad ➝ R?walpindi,February,0 days 23:24:00,Saturday,2,12,Afternoon
+2016-02-20 14:50:00,2016-02-20 15:54:00,Business,R?walpindi,R?walpindi,23.1,Meeting,R?walpindi ➝ R?walpindi,February,0 days 22:56:00,Saturday,2,14,Afternoon
+2016-02-21 11:47:00,2016-02-21 12:01:00,Business,Islamabad,Islamabad,4.6,Errand/Supplies,Islamabad ➝ Islamabad,February,0 days 23:46:00,Sunday,2,11,Morning
+2016-02-21 15:14:00,2016-02-21 15:31:00,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,Islamabad ➝ Noorpur Shahan,February,0 days 23:43:00,Sunday,2,15,Afternoon
+2016-02-22 21:54:00,2016-02-22 22:09:00,Business,Morrisville,Cary,8.1,Customer Visit,Morrisville ➝ Cary,February,0 days 23:45:00,Monday,2,21,Night
+2016-02-24 14:30:00,2016-02-24 14:35:00,Business,Whitebridge,Preston,1.5,,Whitebridge ➝ Preston,February,0 days 23:55:00,Wednesday,2,14,Afternoon
+2016-02-24 15:19:00,2016-02-24 15:25:00,Business,Preston,Whitebridge,1.7,Errand/Supplies,Preston ➝ Whitebridge,February,0 days 23:54:00,Wednesday,2,15,Afternoon
+2016-02-25 16:27:00,2016-02-25 16:35:00,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,Whitebridge ➝ Heritage Pines,February,0 days 23:52:00,Thursday,2,16,Afternoon
+2016-02-25 16:47:00,2016-02-25 17:02:00,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,Heritage Pines ➝ Whitebridge,February,0 days 23:45:00,Thursday,2,16,Afternoon
+2016-02-25 17:16:00,2016-02-25 17:36:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,Whitebridge ➝ Tanglewood,February,0 days 23:40:00,Thursday,2,17,Evening
+2016-02-25 18:22:00,2016-02-25 18:39:00,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,Tanglewood ➝ Whitebridge,February,0 days 23:43:00,Thursday,2,18,Evening
+2016-02-26 09:06:00,2016-02-26 09:29:00,Business,Whitebridge,Westpark Place,6.3,,Whitebridge ➝ Westpark Place,February,0 days 23:37:00,Friday,2,9,Morning
+2016-02-26 11:05:00,2016-02-26 11:11:00,Personal,Westpark Place,Whitebridge,1.7,,Westpark Place ➝ Whitebridge,February,0 days 23:54:00,Friday,2,11,Morning
+2016-02-26 11:35:00,2016-02-26 11:59:00,Business,Cary,Durham,10.6,Meeting,Cary ➝ Durham,February,0 days 23:36:00,Friday,2,11,Morning
+2016-02-26 13:01:00,2016-02-26 13:24:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,February,0 days 23:37:00,Friday,2,13,Afternoon
+2016-02-26 14:38:00,2016-02-26 14:46:00,Personal,Whitebridge,Westpark Place,1.9,,Whitebridge ➝ Westpark Place,February,0 days 23:52:00,Friday,2,14,Afternoon
+2016-02-26 15:00:00,2016-02-26 15:18:00,Personal,Westpark Place,Hazelwood,4.2,,Westpark Place ➝ Hazelwood,February,0 days 23:42:00,Friday,2,15,Afternoon
+2016-02-26 17:01:00,2016-02-26 17:12:00,Personal,Hazelwood,Whitebridge,2.0,,Hazelwood ➝ Whitebridge,February,0 days 23:49:00,Friday,2,17,Evening
+2016-02-28 05:22:00,2016-02-28 05:38:00,Business,Whitebridge,Waverly Place,7.7,Meeting,Whitebridge ➝ Waverly Place,February,0 days 23:44:00,Sunday,2,5,Night
+2016-02-28 09:26:00,2016-02-28 09:42:00,Business,Waverly Place,Whitebridge,6.8,Meeting,Waverly Place ➝ Whitebridge,February,0 days 23:44:00,Sunday,2,9,Morning
+2016-02-29 11:07:00,2016-02-29 11:14:00,Personal,Whitebridge,Westpark Place,2.1,,Whitebridge ➝ Westpark Place,February,0 days 23:53:00,Monday,2,11,Morning
+2016-02-29 11:30:00,2016-02-29 11:40:00,Business,Cary,Apex,3.8,Meeting,Cary ➝ Apex,February,0 days 23:50:00,Monday,2,11,Morning
+2016-02-29 12:36:00,2016-02-29 12:48:00,Business,Apex,Cary,5.6,Meeting,Apex ➝ Cary,February,0 days 23:48:00,Monday,2,12,Afternoon
+2016-02-29 14:55:00,2016-02-29 15:03:00,Business,Whitebridge,Hazelwood,2.6,,Whitebridge ➝ Hazelwood,February,0 days 23:52:00,Monday,2,14,Afternoon
+2016-02-29 16:40:00,2016-02-29 17:00:00,Business,Hazelwood,Whitebridge,6.6,Customer Visit,Hazelwood ➝ Whitebridge,February,0 days 23:40:00,Monday,2,16,Afternoon
+2016-03-01 18:47:00,2016-03-01 19:10:00,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,Whitebridge ➝ Wayne Ridge,March,0 days 23:37:00,Tuesday,3,18,Evening
+2016-03-01 21:27:00,2016-03-01 21:45:00,Business,Wayne Ridge,Whitebridge,8.0,Meeting,Wayne Ridge ➝ Whitebridge,March,0 days 23:42:00,Tuesday,3,21,Night
+2016-03-03 09:45:00,2016-03-03 09:52:00,Personal,Whitebridge,Westpark Place,2.2,,Whitebridge ➝ Westpark Place,March,0 days 23:53:00,Thursday,3,9,Morning
+2016-03-03 11:04:00,2016-03-03 11:10:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,Westpark Place ➝ Whitebridge,March,0 days 23:54:00,Thursday,3,11,Morning
+2016-03-03 14:44:00,2016-03-03 14:58:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,Whitebridge ➝ Northwoods,March,0 days 23:46:00,Thursday,3,14,Afternoon
+2016-03-03 15:27:00,2016-03-03 15:48:00,Business,Cary,Raleigh,7.6,Customer Visit,Cary ➝ Raleigh,March,0 days 23:39:00,Thursday,3,15,Afternoon
+2016-03-03 16:02:00,2016-03-03 16:42:00,Business,Raleigh,Cary,17.3,Meeting,Raleigh ➝ Cary,March,0 days 23:20:00,Thursday,3,16,Afternoon
+2016-03-04 07:47:00,2016-03-04 08:06:00,Business,Cary,Durham,9.9,Meeting,Cary ➝ Durham,March,0 days 23:41:00,Friday,3,7,Morning
+2016-03-04 09:46:00,2016-03-04 10:03:00,Business,Durham,Cary,9.9,Customer Visit,Durham ➝ Cary,March,0 days 23:43:00,Friday,3,9,Morning
+2016-03-04 11:46:00,2016-03-04 12:06:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,March,0 days 23:40:00,Friday,3,11,Morning
+2016-03-04 13:03:00,2016-03-04 13:25:00,Business,Durham,Cary,10.9,Meeting,Durham ➝ Cary,March,0 days 23:38:00,Friday,3,13,Afternoon
+2016-03-04 13:40:00,2016-03-04 14:09:00,Business,Cary,Raleigh,15.7,Customer Visit,Cary ➝ Raleigh,March,0 days 23:31:00,Friday,3,13,Afternoon
+2016-03-04 15:56:00,2016-03-04 16:08:00,Business,Raleigh,Raleigh,4.9,Meal/Entertain,Raleigh ➝ Raleigh,March,0 days 23:48:00,Friday,3,15,Afternoon
+2016-03-04 16:16:00,2016-03-04 16:22:00,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,Fayetteville Street ➝ Depot Historic District,March,0 days 23:54:00,Friday,3,16,Afternoon
+2016-03-04 16:43:00,2016-03-04 17:12:00,Business,Raleigh,Cary,13.5,Meeting,Raleigh ➝ Cary,March,0 days 23:31:00,Friday,3,16,Afternoon
+2016-03-04 19:02:00,2016-03-04 19:08:00,Business,Cary,Morrisville,1.9,Temporary Site,Cary ➝ Morrisville,March,0 days 23:54:00,Friday,3,19,Evening
+2016-03-04 19:16:00,2016-03-04 19:25:00,Business,Morrisville,Cary,2.0,Meal/Entertain,Morrisville ➝ Cary,March,0 days 23:51:00,Friday,3,19,Evening
+2016-03-05 11:44:00,2016-03-05 11:59:00,Business,Cary,Morrisville,6.5,Meal/Entertain,Cary ➝ Morrisville,March,0 days 23:45:00,Saturday,3,11,Morning
+2016-03-05 12:57:00,2016-03-05 13:12:00,Personal,Weston,Weston,4.2,,Weston ➝ Weston,March,0 days 23:45:00,Saturday,3,12,Afternoon
+2016-03-05 14:08:00,2016-03-05 14:18:00,Personal,Morrisville,Cary,3.5,,Morrisville ➝ Cary,March,0 days 23:50:00,Saturday,3,14,Afternoon
+2016-03-05 14:39:00,2016-03-05 15:01:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,Whitebridge ➝ Wayne Ridge,March,0 days 23:38:00,Saturday,3,14,Afternoon
+2016-03-05 16:52:00,2016-03-05 17:13:00,Business,Cary,Morrisville,7.8,Meal/Entertain,Cary ➝ Morrisville,March,0 days 23:39:00,Saturday,3,16,Afternoon
+2016-03-05 17:23:00,2016-03-05 17:34:00,Business,Morrisville,Cary,3.9,Meal/Entertain,Morrisville ➝ Cary,March,0 days 23:49:00,Saturday,3,17,Evening
+2016-03-07 09:10:00,2016-03-07 09:20:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,Whitebridge ➝ Edgehill Farms,March,0 days 23:50:00,Monday,3,9,Morning
+2016-03-07 09:23:00,2016-03-07 09:47:00,Business,Cary,Raleigh,12.4,Customer Visit,Cary ➝ Raleigh,March,0 days 23:36:00,Monday,3,9,Morning
+2016-03-07 12:10:00,2016-03-07 12:26:00,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,Fayetteville Street ➝ Meredith Townes,March,0 days 23:44:00,Monday,3,12,Afternoon
+2016-03-07 13:57:00,2016-03-07 14:18:00,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,Meredith Townes ➝ Leesville Hollow,March,0 days 23:39:00,Monday,3,13,Afternoon
+2016-03-07 15:19:00,2016-03-07 15:45:00,Business,Raleigh,Cary,11.9,Between Offices,Raleigh ➝ Cary,March,0 days 23:34:00,Monday,3,15,Afternoon
+2016-03-08 14:38:00,2016-03-08 14:55:00,Business,Whitebridge,Waverly Place,7.2,Between Offices,Whitebridge ➝ Waverly Place,March,0 days 23:43:00,Tuesday,3,14,Afternoon
+2016-03-08 15:35:00,2016-03-08 16:00:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,Waverly Place ➝ Whitebridge,March,0 days 23:35:00,Tuesday,3,15,Afternoon
+2016-03-08 16:13:00,2016-03-08 16:25:00,Personal,Whitebridge,Whitebridge,1.6,,Whitebridge ➝ Whitebridge,March,0 days 23:48:00,Tuesday,3,16,Afternoon
+2016-03-10 03:36:00,2016-03-10 03:53:00,Business,Cary,Morrisville,8.4,Meeting,Cary ➝ Morrisville,March,0 days 23:43:00,Thursday,3,3,Night
+2016-03-10 10:08:00,2016-03-10 10:37:00,Business,East Austin,West University,12.8,Meeting,East Austin ➝ West University,March,0 days 23:31:00,Thursday,3,10,Morning
+2016-03-10 14:39:00,2016-03-10 14:55:00,Business,West University,South Congress,2.3,,West University ➝ South Congress,March,0 days 23:44:00,Thursday,3,14,Afternoon
+2016-03-10 16:18:00,2016-03-10 16:28:00,Business,South Congress,Arts District,1.6,,South Congress ➝ Arts District,March,0 days 23:50:00,Thursday,3,16,Afternoon
+2016-03-11 09:47:00,2016-03-11 09:59:00,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,The Drag ➝ Congress Ave District,March,0 days 23:48:00,Friday,3,9,Morning
+2016-03-11 10:29:00,2016-03-11 10:36:00,Business,Congress Ave District,Downtown,0.8,,Congress Ave District ➝ Downtown,March,0 days 23:53:00,Friday,3,10,Morning
+2016-03-11 11:57:00,2016-03-11 12:04:00,Business,Downtown,Red River District,1.2,,Downtown ➝ Red River District,March,0 days 23:53:00,Friday,3,11,Morning
+2016-03-11 13:43:00,2016-03-11 13:51:00,Business,Red River District,Downtown,1.0,,Red River District ➝ Downtown,March,0 days 23:52:00,Friday,3,13,Afternoon
+2016-03-11 19:21:00,2016-03-11 19:35:00,Business,South Congress,The Drag,2.1,,South Congress ➝ The Drag,March,0 days 23:46:00,Friday,3,19,Evening
+2016-03-12 09:13:00,2016-03-12 09:22:00,Business,The Drag,South Congress,2.2,,The Drag ➝ South Congress,March,0 days 23:51:00,Saturday,3,9,Morning
+2016-03-12 18:27:00,2016-03-12 18:37:00,Personal,South Congress,The Drag,1.9,,South Congress ➝ The Drag,March,0 days 23:50:00,Saturday,3,18,Evening
+2016-03-13 09:07:00,2016-03-13 09:37:00,Business,The Drag,Convention Center District,5.7,Meal/Entertain,The Drag ➝ Convention Center District,March,0 days 23:30:00,Sunday,3,9,Morning
+2016-03-13 18:23:00,2016-03-13 18:43:00,Business,South Congress,North Austin,8.4,Meal/Entertain,South Congress ➝ North Austin,March,0 days 23:40:00,Sunday,3,18,Evening
+2016-03-13 20:07:00,2016-03-13 20:28:00,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,Georgian Acres ➝ The Drag,March,0 days 23:39:00,Sunday,3,20,Evening
+2016-03-13 20:39:00,2016-03-13 20:58:00,Business,The Drag,North Austin,10.5,Meal/Entertain,The Drag ➝ North Austin,March,0 days 23:41:00,Sunday,3,20,Evening
+2016-03-13 21:11:00,2016-03-13 21:23:00,Business,North Austin,Coxville,7.2,Meal/Entertain,North Austin ➝ Coxville,March,0 days 23:48:00,Sunday,3,21,Night
+2016-03-13 22:19:00,2016-03-13 22:39:00,Business,Coxville,The Drag,12.5,,Coxville ➝ The Drag,March,0 days 23:40:00,Sunday,3,22,Night
+2016-03-14 08:34:00,2016-03-14 08:49:00,Business,The Drag,South Congress,2.0,Errand/Supplies,The Drag ➝ South Congress,March,0 days 23:45:00,Monday,3,8,Morning
+2016-03-14 18:39:00,2016-03-14 18:55:00,Business,South Congress,The Drag,2.7,,South Congress ➝ The Drag,March,0 days 23:44:00,Monday,3,18,Evening
+2016-03-15 08:45:00,2016-03-15 08:57:00,Business,The Drag,Convention Center District,2.0,Meal/Entertain,The Drag ➝ Convention Center District,March,0 days 23:48:00,Tuesday,3,8,Morning
+2016-03-15 20:48:00,2016-03-15 21:01:00,Business,Downtown,The Drag,2.8,Meal/Entertain,Downtown ➝ The Drag,March,0 days 23:47:00,Tuesday,3,20,Evening
+2016-03-16 11:34:00,2016-03-16 11:45:00,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,The Drag ➝ Congress Ave District,March,0 days 23:49:00,Wednesday,3,11,Morning
+2016-03-16 14:44:00,2016-03-16 14:55:00,Business,Convention Center District,West University,2.0,,Convention Center District ➝ West University,March,0 days 23:49:00,Wednesday,3,14,Afternoon
+2016-03-16 18:43:00,2016-03-16 18:56:00,Business,West University,Congress Ave District,2.1,Meal/Entertain,West University ➝ Congress Ave District,March,0 days 23:47:00,Wednesday,3,18,Evening
+2016-03-17 00:33:00,2016-03-17 00:44:00,Personal,Downtown,The Drag,1.7,,Downtown ➝ The Drag,March,0 days 23:49:00,Thursday,3,0,Night
+2016-03-17 12:52:00,2016-03-17 15:11:00,Business,Austin,Katy,136.0,Customer Visit,Austin ➝ Katy,March,0 days 21:41:00,Thursday,3,12,Afternoon
+2016-03-17 15:16:00,2016-03-17 15:58:00,Business,Katy,Houston,30.2,Meeting,Katy ➝ Houston,March,0 days 23:18:00,Thursday,3,15,Afternoon
+2016-03-17 17:20:00,2016-03-17 18:02:00,Business,Midtown,Alief,15.5,Meal/Entertain,Midtown ➝ Alief,March,0 days 23:18:00,Thursday,3,17,Evening
+2016-03-17 18:47:00,2016-03-17 19:09:00,Personal,Houston,Houston,4.9,,Houston ➝ Houston,March,0 days 23:38:00,Thursday,3,18,Evening
+2016-03-17 20:57:00,2016-03-17 21:28:00,Personal,Houston,Houston,12.6,,Houston ➝ Houston,March,0 days 23:29:00,Thursday,3,20,Evening
+2016-03-17 21:48:00,2016-03-17 22:04:00,Personal,Sharpstown,Midtown,10.4,,Sharpstown ➝ Midtown,March,0 days 23:44:00,Thursday,3,21,Night
+2016-03-18 07:15:00,2016-03-18 07:21:00,Business,Midtown,Midtown,1.1,Meal/Entertain,Midtown ➝ Midtown,March,0 days 23:54:00,Friday,3,7,Morning
+2016-03-18 08:35:00,2016-03-18 08:43:00,Business,Midtown,Midtown,1.1,Meal/Entertain,Midtown ➝ Midtown,March,0 days 23:52:00,Friday,3,8,Morning
+2016-03-18 18:24:00,2016-03-18 19:08:00,Business,Midtown,Sharpstown,13.2,Meeting,Midtown ➝ Sharpstown,March,0 days 23:16:00,Friday,3,18,Evening
+2016-03-18 19:23:00,2016-03-18 19:29:00,Business,Sharpstown,Sharpstown,1.0,Errand/Supplies,Sharpstown ➝ Sharpstown,March,0 days 23:54:00,Friday,3,19,Evening
+2016-03-18 21:01:00,2016-03-18 21:15:00,Business,Sharpstown,Midtown,9.2,Customer Visit,Sharpstown ➝ Midtown,March,0 days 23:46:00,Friday,3,21,Night
+2016-03-19 09:10:00,2016-03-19 09:25:00,Business,Midtown,Sharpstown,9.4,Meal/Entertain,Midtown ➝ Sharpstown,March,0 days 23:45:00,Saturday,3,9,Morning
+2016-03-19 12:50:00,2016-03-19 13:13:00,Business,Houston,Sugar Land,12.0,Customer Visit,Houston ➝ Sugar Land,March,0 days 23:37:00,Saturday,3,12,Afternoon
+2016-03-19 14:01:00,2016-03-19 14:57:00,Business,Sugar Land,Houston,35.1,Customer Visit,Sugar Land ➝ Houston,March,0 days 23:04:00,Saturday,3,14,Afternoon
+2016-03-19 15:34:00,2016-03-19 16:38:00,Business,Houston,Galveston,36.5,Meal/Entertain,Houston ➝ Galveston,March,0 days 22:56:00,Saturday,3,15,Afternoon
+2016-03-19 17:17:00,2016-03-19 17:32:00,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,Galveston ➝ Port Bolivar,March,0 days 23:45:00,Saturday,3,17,Evening
+2016-03-19 17:37:00,2016-03-19 17:47:00,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,Port Bolivar ➝ Port Bolivar,March,0 days 23:50:00,Saturday,3,17,Evening
+2016-03-19 17:52:00,2016-03-19 18:00:00,Business,Port Bolivar,Port Bolivar,1.2,,Port Bolivar ➝ Port Bolivar,March,0 days 23:52:00,Saturday,3,17,Evening
+2016-03-19 18:53:00,2016-03-19 19:29:00,Business,Port Bolivar,Galveston,7.5,Meeting,Port Bolivar ➝ Galveston,March,0 days 23:24:00,Saturday,3,18,Evening
+2016-03-19 19:33:00,2016-03-19 20:39:00,Business,Galveston,Houston,57.0,Customer Visit,Galveston ➝ Houston,March,0 days 22:54:00,Saturday,3,19,Evening
+2016-03-20 07:37:00,2016-03-20 07:48:00,Business,Midtown,Washington Avenue,5.9,Meeting,Midtown ➝ Washington Avenue,March,0 days 23:49:00,Sunday,3,7,Morning
+2016-03-20 11:42:00,2016-03-20 11:56:00,Business,Washington Avenue,Midtown,6.2,Meeting,Washington Avenue ➝ Midtown,March,0 days 23:46:00,Sunday,3,11,Morning
+2016-03-20 17:08:00,2016-03-20 17:34:00,Business,Midtown,Sharpstown,10.4,,Midtown ➝ Sharpstown,March,0 days 23:34:00,Sunday,3,17,Evening
+2016-03-20 18:34:00,2016-03-20 18:40:00,Personal,Sharpstown,Briar Meadow,1.2,,Sharpstown ➝ Briar Meadow,March,0 days 23:54:00,Sunday,3,18,Evening
+2016-03-20 18:45:00,2016-03-20 19:06:00,Business,Briar Meadow,Midtown,9.6,Customer Visit,Briar Meadow ➝ Midtown,March,0 days 23:39:00,Sunday,3,18,Evening
+2016-03-21 10:21:00,2016-03-21 10:26:00,Personal,Midtown,Downtown,1.0,,Midtown ➝ Downtown,March,0 days 23:55:00,Monday,3,10,Morning
+2016-03-21 16:05:00,2016-03-21 16:13:00,Business,Downtown,Midtown,0.9,Meal/Entertain,Downtown ➝ Midtown,March,0 days 23:52:00,Monday,3,16,Afternoon
+2016-03-21 18:59:00,2016-03-21 19:15:00,Business,Midtown,Sharpstown,8.8,,Midtown ➝ Sharpstown,March,0 days 23:44:00,Monday,3,18,Evening
+2016-03-21 20:18:00,2016-03-21 20:55:00,Business,Sharpstown,Midtown,25.6,Meal/Entertain,Sharpstown ➝ Midtown,March,0 days 23:23:00,Monday,3,20,Evening
+2016-03-22 06:17:00,2016-03-22 06:43:00,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,Midtown ➝ Greater Greenspoint,March,0 days 23:34:00,Tuesday,3,6,Morning
+2016-03-22 12:06:00,2016-03-22 12:24:00,Personal,Morrisville,Cary,8.1,,Morrisville ➝ Cary,March,0 days 23:42:00,Tuesday,3,12,Afternoon
+2016-03-22 19:12:00,2016-03-22 19:25:00,Personal,Whitebridge,Whitebridge,1.4,,Whitebridge ➝ Whitebridge,March,0 days 23:47:00,Tuesday,3,19,Evening
+2016-03-23 14:37:00,2016-03-23 14:42:00,Personal,Whitebridge,Preston,1.7,,Whitebridge ➝ Preston,March,0 days 23:55:00,Wednesday,3,14,Afternoon
+2016-03-23 14:53:00,2016-03-23 14:59:00,Personal,Preston,Whitebridge,1.6,,Preston ➝ Whitebridge,March,0 days 23:54:00,Wednesday,3,14,Afternoon
+2016-03-24 19:47:00,2016-03-24 19:54:00,Personal,Whitebridge,Westpark Place,2.0,,Whitebridge ➝ Westpark Place,March,0 days 23:53:00,Thursday,3,19,Evening
+2016-03-24 20:34:00,2016-03-24 20:40:00,Business,Westpark Place,Whitebridge,2.2,,Westpark Place ➝ Whitebridge,March,0 days 23:54:00,Thursday,3,20,Evening
+2016-03-25 13:24:00,2016-03-25 16:22:00,Business,Cary,Latta,144.0,Customer Visit,Cary ➝ Latta,March,0 days 21:02:00,Friday,3,13,Afternoon
+2016-03-25 16:52:00,2016-03-25 22:22:00,Business,Latta,Jacksonville,310.3,Customer Visit,Latta ➝ Jacksonville,March,0 days 18:30:00,Friday,3,16,Afternoon
+2016-03-25 22:54:00,2016-03-26 01:39:00,Business,Jacksonville,Kissimmee,201.0,Meeting,Jacksonville ➝ Kissimmee,March,0 days 21:15:00,Friday,3,22,Night
+2016-03-26 14:05:00,2016-03-26 14:29:00,Personal,Couples Glen,Isles of Buena Vista,6.7,,Couples Glen ➝ Isles of Buena Vista,March,0 days 23:36:00,Saturday,3,14,Afternoon
+2016-03-26 15:19:00,2016-03-26 15:49:00,Personal,Kissimmee,Orlando,8.8,,Kissimmee ➝ Orlando,March,0 days 23:30:00,Saturday,3,15,Afternoon
+2016-03-26 16:26:00,2016-03-26 16:30:00,Personal,Lake Reams,Lake Reams,1.2,,Lake Reams ➝ Lake Reams,March,0 days 23:56:00,Saturday,3,16,Afternoon
+2016-03-27 00:31:00,2016-03-27 00:40:00,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,Lake Reams ➝ Lake Reams,March,0 days 23:51:00,Sunday,3,0,Night
+2016-03-27 01:11:00,2016-03-27 01:23:00,Business,Orlando,Kissimmee,6.6,Meal/Entertain,Orlando ➝ Kissimmee,March,0 days 23:48:00,Sunday,3,1,Night
+2016-03-27 15:31:00,2016-03-27 15:56:00,Business,Kissimmee,Orlando,6.1,Customer Visit,Kissimmee ➝ Orlando,March,0 days 23:35:00,Sunday,3,15,Afternoon
+2016-03-27 21:26:00,2016-03-27 21:41:00,Personal,Orlando,Orlando,6.9,,Orlando ➝ Orlando,March,0 days 23:45:00,Sunday,3,21,Night
+2016-03-27 23:04:00,2016-03-27 23:18:00,Personal,Orlando,Kissimmee,7.3,,Orlando ➝ Kissimmee,March,0 days 23:46:00,Sunday,3,23,Night
+2016-03-28 12:29:00,2016-03-28 12:42:00,Personal,Kissimmee,Orlando,3.6,,Kissimmee ➝ Orlando,March,0 days 23:47:00,Monday,3,12,Afternoon
+2016-03-28 19:30:00,2016-03-28 20:23:00,Personal,Couples Glen,Vista East,27.2,,Couples Glen ➝ Vista East,March,0 days 23:07:00,Monday,3,19,Evening
+2016-03-28 22:55:00,2016-03-28 23:26:00,Personal,Orlando,Kissimmee,25.7,,Orlando ➝ Kissimmee,March,0 days 23:29:00,Monday,3,22,Night
+2016-03-29 15:27:00,2016-03-29 16:11:00,Personal,Kissimmee,Orlando,13.6,,Kissimmee ➝ Orlando,March,0 days 23:16:00,Tuesday,3,15,Afternoon
+2016-03-29 18:20:00,2016-03-29 18:39:00,Personal,Sand Lake Commons,Sky Lake,6.2,,Sand Lake Commons ➝ Sky Lake,March,0 days 23:41:00,Tuesday,3,18,Evening
+2016-03-29 20:29:00,2016-03-29 20:44:00,Personal,Sky Lake,Sand Lake Commons,6.0,,Sky Lake ➝ Sand Lake Commons,March,0 days 23:45:00,Tuesday,3,20,Evening
+2016-03-29 23:04:00,2016-03-29 23:21:00,Personal,Orlando,Kissimmee,13.8,,Orlando ➝ Kissimmee,March,0 days 23:43:00,Tuesday,3,23,Night
+2016-03-30 22:05:00,2016-03-30 22:55:00,Business,Orlando,Kissimmee,28.8,Meal/Entertain,Orlando ➝ Kissimmee,March,0 days 23:10:00,Wednesday,3,22,Night
+2016-03-31 12:47:00,2016-03-31 13:22:00,Business,Kissimmee,Orlando,16.1,Temporary Site,Kissimmee ➝ Orlando,March,0 days 23:25:00,Thursday,3,12,Afternoon
+2016-03-31 14:37:00,2016-03-31 15:09:00,Business,Orlando,Kissimmee,16.4,Meal/Entertain,Orlando ➝ Kissimmee,March,0 days 23:28:00,Thursday,3,14,Afternoon
+2016-04-01 13:43:00,2016-04-01 14:01:00,Business,Kissimmee,Kissimmee,11.0,Meeting,Kissimmee ➝ Kissimmee,April,0 days 23:42:00,Friday,4,13,Afternoon
+2016-04-01 14:36:00,2016-04-01 15:24:00,Business,Kissimmee,Orlando,15.5,Customer Visit,Kissimmee ➝ Orlando,April,0 days 23:12:00,Friday,4,14,Afternoon
+2016-04-01 16:01:00,2016-04-01 16:49:00,Business,Orlando,Kissimmee,20.3,Meeting,Orlando ➝ Kissimmee,April,0 days 23:12:00,Friday,4,16,Afternoon
+2016-04-01 16:52:00,2016-04-01 16:57:00,Personal,Kissimmee,Kissimmee,0.7,,Kissimmee ➝ Kissimmee,April,0 days 23:55:00,Friday,4,16,Afternoon
+2016-04-02 08:48:00,2016-04-02 09:04:00,Personal,Kissimmee,Kissimmee,5.5,,Kissimmee ➝ Kissimmee,April,0 days 23:44:00,Saturday,4,8,Morning
+2016-04-02 11:01:00,2016-04-02 11:16:00,Personal,Kissimmee,Kissimmee,5.1,,Kissimmee ➝ Kissimmee,April,0 days 23:45:00,Saturday,4,11,Morning
+2016-04-02 12:21:00,2016-04-02 14:47:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,Kissimmee ➝ Daytona Beach,April,0 days 21:34:00,Saturday,4,12,Afternoon
+2016-04-02 16:57:00,2016-04-02 18:09:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,Daytona Beach ➝ Jacksonville,April,0 days 22:48:00,Saturday,4,16,Afternoon
+2016-04-02 19:38:00,2016-04-02 22:36:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit,Jacksonville ➝ Ridgeland,April,0 days 21:02:00,Saturday,4,19,Evening
+2016-04-02 23:11:00,2016-04-03 01:34:00,Business,Ridgeland,Florence,144.0,Meeting,Ridgeland ➝ Florence,April,0 days 21:37:00,Saturday,4,23,Night
+2016-04-03 02:00:00,2016-04-03 04:16:00,Business,Florence,Cary,159.3,Meeting,Florence ➝ Cary,April,0 days 21:44:00,Sunday,4,2,Night
+2016-04-05 21:39:00,2016-04-05 21:55:00,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,Whitebridge ➝ Wayne Ridge,April,0 days 23:44:00,Tuesday,4,21,Night
+2016-04-06 00:19:00,2016-04-06 00:39:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,Wayne Ridge ➝ Whitebridge,April,0 days 23:40:00,Wednesday,4,0,Night
+2016-04-07 18:20:00,2016-04-07 18:39:00,Business,Cary,Morrisville,6.1,Meal/Entertain,Cary ➝ Morrisville,April,0 days 23:41:00,Thursday,4,18,Evening
+2016-04-07 19:45:00,2016-04-07 20:00:00,Business,Morrisville,Cary,6.1,Errand/Supplies,Morrisville ➝ Cary,April,0 days 23:45:00,Thursday,4,19,Evening
+2016-04-08 12:30:00,2016-04-08 12:48:00,Business,Cary,Durham,10.5,Meeting,Cary ➝ Durham,April,0 days 23:42:00,Friday,4,12,Afternoon
+2016-04-08 13:34:00,2016-04-08 13:51:00,Business,Durham,Cary,8.7,Meal/Entertain,Durham ➝ Cary,April,0 days 23:43:00,Friday,4,13,Afternoon
+2016-04-08 13:55:00,2016-04-08 14:03:00,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,Westpark Place ➝ Whitebridge,April,0 days 23:52:00,Friday,4,13,Afternoon
+2016-04-08 14:43:00,2016-04-08 15:20:00,Business,Cary,Raleigh,19.1,Meeting,Cary ➝ Raleigh,April,0 days 23:23:00,Friday,4,14,Afternoon
+2016-04-08 16:05:00,2016-04-08 16:47:00,Business,Raleigh,Cary,18.6,Meeting,Raleigh ➝ Cary,April,0 days 23:18:00,Friday,4,16,Afternoon
+2016-04-12 09:15:00,2016-04-12 09:26:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,Whitebridge ➝ Edgehill Farms,April,0 days 23:49:00,Tuesday,4,9,Morning
+2016-04-12 09:34:00,2016-04-12 09:53:00,Business,Cary,Raleigh,8.9,Meeting,Cary ➝ Raleigh,April,0 days 23:41:00,Tuesday,4,9,Morning
+2016-04-12 10:58:00,2016-04-12 11:18:00,Business,Meredith,Cedar Hill,7.5,Customer Visit,Meredith ➝ Cedar Hill,April,0 days 23:40:00,Tuesday,4,10,Morning
+2016-04-12 12:22:00,2016-04-12 12:44:00,Business,Raleigh,Morrisville,15.9,Meeting,Raleigh ➝ Morrisville,April,0 days 23:38:00,Tuesday,4,12,Afternoon
+2016-04-12 13:42:00,2016-04-12 14:01:00,Business,Morrisville,Cary,6.5,Meal/Entertain,Morrisville ➝ Cary,April,0 days 23:41:00,Tuesday,4,13,Afternoon
+2016-04-14 07:29:00,2016-04-14 08:09:00,Business,Cary,Holly Springs,15.3,Temporary Site,Cary ➝ Holly Springs,April,0 days 23:20:00,Thursday,4,7,Morning
+2016-04-14 16:00:00,2016-04-14 16:43:00,Business,Holly Springs,Cary,13.7,Temporary Site,Holly Springs ➝ Cary,April,0 days 23:17:00,Thursday,4,16,Afternoon
+2016-04-15 11:36:00,2016-04-15 12:07:00,Business,Cary,Raleigh,11.9,Temporary Site,Cary ➝ Raleigh,April,0 days 23:29:00,Friday,4,11,Morning
+2016-04-15 12:29:00,2016-04-15 12:32:00,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,Meredith Townes ➝ Harden Place,April,0 days 23:57:00,Friday,4,12,Afternoon
+2016-04-15 14:31:00,2016-04-15 15:01:00,Business,Raleigh,Cary,15.2,Meeting,Raleigh ➝ Cary,April,0 days 23:30:00,Friday,4,14,Afternoon
+2016-04-16 12:59:00,2016-04-16 13:17:00,Business,Cary,Morrisville,6.0,Errand/Supplies,Cary ➝ Morrisville,April,0 days 23:42:00,Saturday,4,12,Afternoon
+2016-04-16 15:10:00,2016-04-16 15:26:00,Business,Morrisville,Cary,6.1,Meal/Entertain,Morrisville ➝ Cary,April,0 days 23:44:00,Saturday,4,15,Afternoon
+2016-04-19 17:44:00,2016-04-19 18:08:00,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,Whitebridge ➝ Wayne Ridge,April,0 days 23:36:00,Tuesday,4,17,Evening
+2016-04-19 19:57:00,2016-04-19 20:19:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,Wayne Ridge ➝ Whitebridge,April,0 days 23:38:00,Tuesday,4,19,Evening
+2016-04-22 08:25:00,2016-04-22 09:04:00,Business,Cary,Raleigh,13.6,Meeting,Cary ➝ Raleigh,April,0 days 23:21:00,Friday,4,8,Morning
+2016-04-22 10:10:00,2016-04-22 10:40:00,Business,Raleigh,Cary,22.5,Meeting,Raleigh ➝ Cary,April,0 days 23:30:00,Friday,4,10,Morning
+2016-04-22 12:08:00,2016-04-22 12:28:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,April,0 days 23:40:00,Friday,4,12,Afternoon
+2016-04-22 13:02:00,2016-04-22 13:26:00,Business,Durham,Cary,10.0,Meeting,Durham ➝ Cary,April,0 days 23:36:00,Friday,4,13,Afternoon
+2016-04-23 17:03:00,2016-04-23 17:16:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,Whitebridge ➝ Tanglewood,April,0 days 23:47:00,Saturday,4,17,Evening
+2016-04-23 18:49:00,2016-04-23 19:05:00,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,Tanglewood ➝ Whitebridge,April,0 days 23:44:00,Saturday,4,18,Evening
+2016-04-24 19:07:00,2016-04-24 19:16:00,Business,Cary,Morrisville,3.1,Errand/Supplies,Cary ➝ Morrisville,April,0 days 23:51:00,Sunday,4,19,Evening
+2016-04-24 19:46:00,2016-04-24 19:52:00,Business,Chessington,Chessington,1.9,Errand/Supplies,Chessington ➝ Chessington,April,0 days 23:54:00,Sunday,4,19,Evening
+2016-04-24 21:41:00,2016-04-24 21:50:00,Business,Morrisville,Cary,4.2,Between Offices,Morrisville ➝ Cary,April,0 days 23:51:00,Sunday,4,21,Night
+2016-04-27 13:30:00,2016-04-27 13:40:00,Business,Whitebridge,Burtrose,4.9,Between Offices,Whitebridge ➝ Burtrose,April,0 days 23:50:00,Wednesday,4,13,Afternoon
+2016-04-27 14:13:00,2016-04-27 14:25:00,Business,Burtrose,Whitebridge,4.8,Between Offices,Burtrose ➝ Whitebridge,April,0 days 23:48:00,Wednesday,4,14,Afternoon
+2016-04-28 12:09:00,2016-04-28 12:34:00,Business,Cary,Raleigh,12.4,Customer Visit,Cary ➝ Raleigh,April,0 days 23:35:00,Thursday,4,12,Afternoon
+2016-04-28 13:30:00,2016-04-28 13:49:00,Business,Raleigh,Cary,32.8,Customer Visit,Raleigh ➝ Cary,April,0 days 23:41:00,Thursday,4,13,Afternoon
+2016-04-28 22:10:00,2016-04-28 22:28:00,Business,Morrisville,Cary,5.5,Customer Visit,Morrisville ➝ Cary,April,0 days 23:42:00,Thursday,4,22,Night
+2016-04-29 11:44:00,2016-04-29 12:01:00,Business,Cary,Durham,9.9,Meeting,Cary ➝ Durham,April,0 days 23:43:00,Friday,4,11,Morning
+2016-04-29 13:13:00,2016-04-29 13:34:00,Business,Durham,Cary,10.0,Meeting,Durham ➝ Cary,April,0 days 23:39:00,Friday,4,13,Afternoon
+2016-04-29 18:46:00,2016-04-29 19:18:00,Business,Cary,Durham,14.2,Customer Visit,Cary ➝ Durham,April,0 days 23:28:00,Friday,4,18,Evening
+2016-04-29 22:44:00,2016-04-29 23:19:00,Business,Durham,Cary,18.2,Meeting,Durham ➝ Cary,April,0 days 23:25:00,Friday,4,22,Night
+2016-04-30 18:42:00,2016-04-30 18:57:00,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,Whitebridge ➝ Waverly Place,April,0 days 23:45:00,Saturday,4,18,Evening
+2016-04-30 22:16:00,2016-04-30 22:34:00,Business,Waverly Place,Whitebridge,6.8,,Waverly Place ➝ Whitebridge,April,0 days 23:42:00,Saturday,4,22,Night
+2016-05-01 13:45:00,2016-05-01 13:53:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,Whitebridge ➝ Westpark Place,May,0 days 23:52:00,Sunday,5,13,Afternoon
+2016-05-01 14:26:00,2016-05-01 14:31:00,Business,Westpark Place,Whitebridge,2.3,,Westpark Place ➝ Whitebridge,May,0 days 23:55:00,Sunday,5,14,Afternoon
+2016-05-01 17:33:00,2016-05-01 17:45:00,Business,Whitebridge,Tanglewood,6.2,Between Offices,Whitebridge ➝ Tanglewood,May,0 days 23:48:00,Sunday,5,17,Evening
+2016-05-01 17:54:00,2016-05-01 18:10:00,Business,Tanglewood,Parkway,7.5,Meeting,Tanglewood ➝ Parkway,May,0 days 23:44:00,Sunday,5,17,Evening
+2016-05-01 22:38:00,2016-05-01 22:49:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies,Parkway ➝ Whitebridge,May,0 days 23:49:00,Sunday,5,22,Night
+2016-05-02 14:14:00,2016-05-02 14:21:00,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,Whitebridge ➝ Westpark Place,May,0 days 23:53:00,Monday,5,14,Afternoon
+2016-05-02 15:37:00,2016-05-02 15:48:00,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,Westpark Place ➝ Whitebridge,May,0 days 23:49:00,Monday,5,15,Afternoon
+2016-05-03 22:20:00,2016-05-03 22:28:00,Business,Morrisville,Cary,2.5,Meal/Entertain,Morrisville ➝ Cary,May,0 days 23:52:00,Tuesday,5,22,Night
+2016-05-04 15:16:00,2016-05-04 15:37:00,Business,Cary,Morrisville,8.7,Meal/Entertain,Cary ➝ Morrisville,May,0 days 23:39:00,Wednesday,5,15,Afternoon
+2016-05-04 20:55:00,2016-05-04 21:14:00,Business,Mcvan,Capitol One,14.5,Errand/Supplies,Mcvan ➝ Capitol One,May,0 days 23:41:00,Wednesday,5,20,Evening
+2016-05-04 21:30:00,2016-05-04 21:36:00,Business,Capitol One,University District,4.5,Meal/Entertain,Capitol One ➝ University District,May,0 days 23:54:00,Wednesday,5,21,Night
+2016-05-04 22:19:00,2016-05-04 22:27:00,Business,University District,Capitol One,5.0,Meal/Entertain,University District ➝ Capitol One,May,0 days 23:52:00,Wednesday,5,22,Night
+2016-05-05 21:24:00,2016-05-05 21:36:00,Business,Seattle,Redmond,14.2,Meal/Entertain,Seattle ➝ Redmond,May,0 days 23:48:00,Thursday,5,21,Night
+2016-05-05 22:34:00,2016-05-05 22:40:00,Business,Redmond,Bellevue,2.9,Errand/Supplies,Redmond ➝ Bellevue,May,0 days 23:54:00,Thursday,5,22,Night
+2016-05-05 23:55:00,2016-05-06 00:08:00,Business,Bellevue,Seattle,12.9,Meeting,Bellevue ➝ Seattle,May,0 days 23:47:00,Thursday,5,23,Night
+2016-05-06 05:47:00,2016-05-06 06:02:00,Business,Capitol One,Mcvan,14.4,Meeting,Capitol One ➝ Mcvan,May,0 days 23:45:00,Friday,5,5,Night
+2016-05-06 16:45:00,2016-05-06 16:59:00,Business,Chapel Hill,Morrisville,17.0,Meeting,Chapel Hill ➝ Morrisville,May,0 days 23:46:00,Friday,5,16,Afternoon
+2016-05-06 17:18:00,2016-05-06 17:44:00,Business,Morrisville,Cary,7.9,Customer Visit,Morrisville ➝ Cary,May,0 days 23:34:00,Friday,5,17,Evening
+2016-05-09 06:08:00,2016-05-09 06:25:00,Business,Cary,Morrisville,8.4,Customer Visit,Cary ➝ Morrisville,May,0 days 23:43:00,Monday,5,6,Morning
+2016-05-09 14:39:00,2016-05-09 15:06:00,Business,San Francisco,Palo Alto,20.5,Between Offices,San Francisco ➝ Palo Alto,May,0 days 23:33:00,Monday,5,14,Afternoon
+2016-05-09 17:58:00,2016-05-09 18:26:00,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,Palo Alto ➝ Sunnyvale,May,0 days 23:32:00,Monday,5,17,Evening
+2016-05-09 19:35:00,2016-05-09 19:59:00,Business,Sunnyvale,Newark,17.6,Customer Visit,Sunnyvale ➝ Newark,May,0 days 23:36:00,Monday,5,19,Evening
+2016-05-10 09:03:00,2016-05-10 09:20:00,Business,Newark,Menlo Park,9.3,Customer Visit,Newark ➝ Menlo Park,May,0 days 23:43:00,Tuesday,5,9,Morning
+2016-05-10 17:19:00,2016-05-10 17:31:00,Business,Menlo Park,Newark,7.9,Customer Visit,Menlo Park ➝ Newark,May,0 days 23:48:00,Tuesday,5,17,Evening
+2016-05-11 08:35:00,2016-05-11 09:12:00,Business,Newark,San Francisco,25.6,Meeting,Newark ➝ San Francisco,May,0 days 23:23:00,Wednesday,5,8,Morning
+2016-05-11 21:47:00,2016-05-11 22:04:00,Business,Morrisville,Cary,8.1,Meeting,Morrisville ➝ Cary,May,0 days 23:43:00,Wednesday,5,21,Night
+2016-05-14 18:35:00,2016-05-14 18:39:00,Business,Cary,Morrisville,3.1,Meal/Entertain,Cary ➝ Morrisville,May,0 days 23:56:00,Saturday,5,18,Evening
+2016-05-14 23:01:00,2016-05-14 23:05:00,Business,Morrisville,Cary,3.1,Meal/Entertain,Morrisville ➝ Cary,May,0 days 23:56:00,Saturday,5,23,Night
+2016-05-17 13:15:00,2016-05-17 13:23:00,Business,Whitebridge,Preston,2.8,Errand/Supplies,Whitebridge ➝ Preston,May,0 days 23:52:00,Tuesday,5,13,Afternoon
+2016-05-17 13:56:00,2016-05-17 14:08:00,Business,Preston,Westpark Place,2.7,Errand/Supplies,Preston ➝ Westpark Place,May,0 days 23:48:00,Tuesday,5,13,Afternoon
+2016-05-17 14:34:00,2016-05-17 14:40:00,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,Westpark Place ➝ Whitebridge,May,0 days 23:54:00,Tuesday,5,14,Afternoon
+2016-05-18 09:11:00,2016-05-18 09:41:00,Business,Cary,Morrisville,8.4,Customer Visit,Cary ➝ Morrisville,May,0 days 23:30:00,Wednesday,5,9,Morning
+2016-05-18 13:00:00,2016-05-18 13:02:00,Business,Morrisville,Raleigh,7.6,Customer Visit,Morrisville ➝ Raleigh,May,0 days 23:58:00,Wednesday,5,13,Afternoon
+2016-05-19 14:37:00,2016-05-19 15:01:00,Business,Old City,Parkway Museums,2.9,Meal/Entertain,Old City ➝ Parkway Museums,May,0 days 23:36:00,Thursday,5,14,Afternoon
+2016-05-20 10:56:00,2016-05-20 11:07:00,Business,Old City,Hog Island,11.2,Meeting,Old City ➝ Hog Island,May,0 days 23:49:00,Friday,5,10,Morning
+2016-05-20 15:43:00,2016-05-20 16:12:00,Business,Morrisville,Cary,8.2,Meal/Entertain,Morrisville ➝ Cary,May,0 days 23:31:00,Friday,5,15,Afternoon
+2016-05-22 15:39:00,2016-05-22 15:46:00,Business,Cary,Morrisville,3.0,Meal/Entertain,Cary ➝ Morrisville,May,0 days 23:53:00,Sunday,5,15,Afternoon
+2016-05-22 18:46:00,2016-05-22 18:53:00,Business,Morrisville,Cary,2.5,Meal/Entertain,Morrisville ➝ Cary,May,0 days 23:53:00,Sunday,5,18,Evening
+2016-05-23 20:19:00,2016-05-23 20:27:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,Whitebridge ➝ Savon Height,May,0 days 23:52:00,Monday,5,20,Evening
+2016-05-23 21:09:00,2016-05-23 21:21:00,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,Savon Height ➝ Whitebridge,May,0 days 23:48:00,Monday,5,21,Night
+2016-05-27 20:26:00,2016-05-27 20:30:00,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,Whitebridge ➝ Kildaire Farms,May,0 days 23:56:00,Friday,5,20,Evening
+2016-05-27 20:47:00,2016-05-27 20:53:00,Business,Savon Height,Kilarney Woods,1.2,,Savon Height ➝ Kilarney Woods,May,0 days 23:54:00,Friday,5,20,Evening
+2016-05-27 22:11:00,2016-05-27 22:14:00,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,Kilarney Woods ➝ Kildaire Farms,May,0 days 23:57:00,Friday,5,22,Night
+2016-05-28 00:15:00,2016-05-28 00:21:00,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,Kilarney Woods ➝ Whitebridge,May,0 days 23:54:00,Saturday,5,0,Night
+2016-05-28 12:52:00,2016-05-28 13:06:00,Business,Cary,Morrisville,6.1,Meal/Entertain,Cary ➝ Morrisville,May,0 days 23:46:00,Saturday,5,12,Afternoon
+2016-05-28 14:35:00,2016-05-28 15:04:00,Business,Morrisville,Cary,11.3,Customer Visit,Morrisville ➝ Cary,May,0 days 23:31:00,Saturday,5,14,Afternoon
+2016-05-31 13:54:00,2016-05-31 14:41:00,Business,Cary,Raleigh,14.9,Meeting,Cary ➝ Raleigh,May,0 days 23:13:00,Tuesday,5,13,Afternoon
+2016-05-31 16:02:00,2016-05-31 16:39:00,Business,Raleigh,Cary,14.0,Meeting,Raleigh ➝ Cary,May,0 days 23:23:00,Tuesday,5,16,Afternoon
+2016-05-31 17:50:00,2016-05-31 17:59:00,Business,Westpark Place,Whitebridge,1.8,,Westpark Place ➝ Whitebridge,May,0 days 23:51:00,Tuesday,5,17,Evening
+2016-06-01 10:19:00,2016-06-01 10:47:00,Business,Cary,Morrisville,6.7,Customer Visit,Cary ➝ Morrisville,June,0 days 23:32:00,Wednesday,6,10,Morning
+2016-06-01 13:10:00,2016-06-01 13:39:00,Business,Morrisville,Cary,9.6,Meeting,Morrisville ➝ Cary,June,0 days 23:31:00,Wednesday,6,13,Afternoon
+2016-06-03 11:29:00,2016-06-03 11:49:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,June,0 days 23:40:00,Friday,6,11,Morning
+2016-06-03 13:08:00,2016-06-03 13:38:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:30:00,Friday,6,13,Afternoon
+2016-06-03 15:31:00,2016-06-03 15:54:00,Business,Cary,Morrisville,6.0,Meal/Entertain,Cary ➝ Morrisville,June,0 days 23:37:00,Friday,6,15,Afternoon
+2016-06-03 18:14:00,2016-06-03 18:29:00,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,Townes at Everett Crossing ➝ Chessington,June,0 days 23:45:00,Friday,6,18,Evening
+2016-06-03 18:41:00,2016-06-03 18:53:00,Business,Morrisville,Cary,3.1,Errand/Supplies,Morrisville ➝ Cary,June,0 days 23:48:00,Friday,6,18,Evening
+2016-06-03 19:36:00,2016-06-03 19:42:00,Business,Huntington Woods,Weston,1.7,Errand/Supplies,Huntington Woods ➝ Weston,June,0 days 23:54:00,Friday,6,19,Evening
+2016-06-03 22:47:00,2016-06-03 23:06:00,Business,Morrisville,Cary,4.0,Between Offices,Morrisville ➝ Cary,June,0 days 23:41:00,Friday,6,22,Night
+2016-06-05 14:03:00,2016-06-05 14:33:00,Business,Whitebridge,Savon Height,7.8,Customer Visit,Whitebridge ➝ Savon Height,June,0 days 23:30:00,Sunday,6,14,Afternoon
+2016-06-05 15:06:00,2016-06-05 15:22:00,Business,Cary,Morrisville,7.8,Customer Visit,Cary ➝ Morrisville,June,0 days 23:44:00,Sunday,6,15,Afternoon
+2016-06-05 15:57:00,2016-06-05 16:08:00,Business,Weston,Weston,3.8,Meal/Entertain,Weston ➝ Weston,June,0 days 23:49:00,Sunday,6,15,Afternoon
+2016-06-05 18:05:00,2016-06-05 18:14:00,Business,Morrisville,Cary,2.5,Meal/Entertain,Morrisville ➝ Cary,June,0 days 23:51:00,Sunday,6,18,Evening
+2016-06-05 21:53:00,2016-06-05 22:05:00,Business,Cary,Durham,9.9,Meeting,Cary ➝ Durham,June,0 days 23:48:00,Sunday,6,21,Night
+2016-06-05 23:52:00,2016-06-06 00:08:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:44:00,Sunday,6,23,Night
+2016-06-06 15:36:00,2016-06-06 15:45:00,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,Whitebridge ➝ Hazelwood,June,0 days 23:51:00,Monday,6,15,Afternoon
+2016-06-06 16:16:00,2016-06-06 16:24:00,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,Hazelwood ➝ Whitebridge,June,0 days 23:52:00,Monday,6,16,Afternoon
+2016-06-06 20:06:00,2016-06-06 20:20:00,Business,Cary,Apex,5.7,Meal/Entertain,Cary ➝ Apex,June,0 days 23:46:00,Monday,6,20,Evening
+2016-06-06 21:08:00,2016-06-06 21:37:00,Business,Apex,Cary,7.2,Meal/Entertain,Apex ➝ Cary,June,0 days 23:31:00,Monday,6,21,Night
+2016-06-06 21:41:00,2016-06-06 22:00:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,June,0 days 23:41:00,Monday,6,21,Night
+2016-06-06 23:34:00,2016-06-06 23:48:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:46:00,Monday,6,23,Night
+2016-06-07 21:42:00,2016-06-07 22:00:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,June,0 days 23:42:00,Tuesday,6,21,Night
+2016-06-07 23:41:00,2016-06-08 00:04:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:37:00,Tuesday,6,23,Night
+2016-06-08 08:23:00,2016-06-08 08:53:00,Business,Cary,Morrisville,8.7,Meal/Entertain,Cary ➝ Morrisville,June,0 days 23:30:00,Wednesday,6,8,Morning
+2016-06-08 12:04:00,2016-06-08 13:01:00,Business,Jamaica,New York,22.3,Errand/Supplies,Jamaica ➝ New York,June,0 days 23:03:00,Wednesday,6,12,Afternoon
+2016-06-08 13:12:00,2016-06-08 13:29:00,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,Seaport ➝ Gramercy-Flatiron,June,0 days 23:43:00,Wednesday,6,13,Afternoon
+2016-06-08 14:31:00,2016-06-08 14:37:00,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,Medical Centre ➝ Tudor City,June,0 days 23:54:00,Wednesday,6,14,Afternoon
+2016-06-08 16:55:00,2016-06-08 17:11:00,Business,Rose Hill,Soho,2.5,Meal/Entertain,Rose Hill ➝ Soho,June,0 days 23:44:00,Wednesday,6,16,Afternoon
+2016-06-08 17:16:00,2016-06-08 17:18:00,Business,Soho,Tribeca,0.5,Errand/Supplies,Soho ➝ Tribeca,June,0 days 23:58:00,Wednesday,6,17,Evening
+2016-06-08 17:59:00,2016-06-08 18:05:00,Business,Tribeca,Financial District,0.9,Errand/Supplies,Tribeca ➝ Financial District,June,0 days 23:54:00,Wednesday,6,17,Evening
+2016-06-08 20:11:00,2016-06-08 20:25:00,Business,Financial District,Kips Bay,4.8,Errand/Supplies,Financial District ➝ Kips Bay,June,0 days 23:46:00,Wednesday,6,20,Evening
+2016-06-10 15:19:00,2016-06-10 16:28:00,Business,New York,Jamaica,16.3,Meeting,New York ➝ Jamaica,June,0 days 22:51:00,Friday,6,15,Afternoon
+2016-06-10 21:47:00,2016-06-10 22:04:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,June,0 days 23:43:00,Friday,6,21,Night
+2016-06-10 23:53:00,2016-06-11 00:01:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:52:00,Friday,6,23,Night
+2016-06-11 17:08:00,2016-06-11 17:16:00,Business,Cary,Morrisville,3.7,Errand/Supplies,Cary ➝ Morrisville,June,0 days 23:52:00,Saturday,6,17,Evening
+2016-06-11 17:34:00,2016-06-11 17:39:00,Business,Morrisville,Cary,4.6,Meal/Entertain,Morrisville ➝ Cary,June,0 days 23:55:00,Saturday,6,17,Evening
+2016-06-11 17:50:00,2016-06-11 17:56:00,Business,Westpark Place,Whitebridge,1.7,,Westpark Place ➝ Whitebridge,June,0 days 23:54:00,Saturday,6,17,Evening
+2016-06-11 21:45:00,2016-06-11 22:04:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,June,0 days 23:41:00,Saturday,6,21,Night
+2016-06-11 23:39:00,2016-06-12 00:05:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:34:00,Saturday,6,23,Night
+2016-06-12 19:53:00,2016-06-12 19:56:00,Business,Cary,Morrisville,2.5,Meal/Entertain,Cary ➝ Morrisville,June,0 days 23:57:00,Sunday,6,19,Evening
+2016-06-12 20:05:00,2016-06-12 20:16:00,Business,Morrisville,Cary,4.3,Errand/Supplies,Morrisville ➝ Cary,June,0 days 23:49:00,Sunday,6,20,Evening
+2016-06-12 21:58:00,2016-06-12 22:19:00,Business,Parkway,Whitebridge,2.8,Errand/Supplies,Parkway ➝ Whitebridge,June,0 days 23:39:00,Sunday,6,21,Night
+2016-06-13 05:23:00,2016-06-13 05:42:00,Business,Cary,Morrisville,8.4,Meal/Entertain,Cary ➝ Morrisville,June,0 days 23:41:00,Monday,6,5,Night
+2016-06-13 14:17:00,2016-06-13 14:46:00,Business,Oakland,Emeryville,13.2,Meeting,Oakland ➝ Emeryville,June,0 days 23:31:00,Monday,6,14,Afternoon
+2016-06-13 18:08:00,2016-06-13 18:47:00,Business,Emeryville,Berkeley,3.9,Meal/Entertain,Emeryville ➝ Berkeley,June,0 days 23:21:00,Monday,6,18,Evening
+2016-06-13 18:54:00,2016-06-13 19:23:00,Business,Berkeley,Oakland,5.1,Meal/Entertain,Berkeley ➝ Oakland,June,0 days 23:31:00,Monday,6,18,Evening
+2016-06-14 12:03:00,2016-06-14 12:21:00,Business,Emeryville,San Francisco,9.8,,Emeryville ➝ San Francisco,June,0 days 23:42:00,Tuesday,6,12,Afternoon
+2016-06-14 16:09:00,2016-06-14 16:39:00,Business,San Francisco,Emeryville,11.6,Meeting,San Francisco ➝ Emeryville,June,0 days 23:30:00,Tuesday,6,16,Afternoon
+2016-06-14 17:15:00,2016-06-14 17:24:00,Business,Emeryville,Oakland,5.1,Meeting,Emeryville ➝ Oakland,June,0 days 23:51:00,Tuesday,6,17,Evening
+2016-06-14 17:27:00,2016-06-14 17:57:00,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,Downtown ➝ Bay Farm Island,June,0 days 23:30:00,Tuesday,6,17,Evening
+2016-06-15 01:46:00,2016-06-15 02:06:00,Business,Kenner,New Orleans,12.4,Between Offices,Kenner ➝ New Orleans,June,0 days 23:40:00,Wednesday,6,1,Night
+2016-06-15 15:26:00,2016-06-15 15:34:00,Business,CBD,Lower Garden District,1.9,Between Offices,CBD ➝ Lower Garden District,June,0 days 23:52:00,Wednesday,6,15,Afternoon
+2016-06-15 16:37:00,2016-06-15 17:02:00,Business,Lower Garden District,Lakeview,6.4,Customer Visit,Lower Garden District ➝ Lakeview,June,0 days 23:35:00,Wednesday,6,16,Afternoon
+2016-06-15 17:29:00,2016-06-15 17:49:00,Personal,Lakeview,Storyville,5.5,,Lakeview ➝ Storyville,June,0 days 23:40:00,Wednesday,6,17,Evening
+2016-06-15 19:52:00,2016-06-15 19:58:00,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,Storyville ➝ Faubourg Marigny,June,0 days 23:54:00,Wednesday,6,19,Evening
+2016-06-16 13:36:00,2016-06-16 14:30:00,Business,New Orleans,Metairie,14.5,,New Orleans ➝ Metairie,June,0 days 23:06:00,Thursday,6,13,Afternoon
+2016-06-16 14:42:00,2016-06-16 14:46:00,Business,Metairie,Kenner,2.7,,Metairie ➝ Kenner,June,0 days 23:56:00,Thursday,6,14,Afternoon
+2016-06-16 15:17:00,2016-06-16 15:41:00,Business,Kenner,New Orleans,15.0,,Kenner ➝ New Orleans,June,0 days 23:36:00,Thursday,6,15,Afternoon
+2016-06-16 19:39:00,2016-06-16 19:56:00,Business,New Orleans,Kenner,12.9,,New Orleans ➝ Kenner,June,0 days 23:43:00,Thursday,6,19,Evening
+2016-06-16 21:43:00,2016-06-16 21:56:00,Business,Kenner,New Orleans,13.6,,Kenner ➝ New Orleans,June,0 days 23:47:00,Thursday,6,21,Night
+2016-06-17 16:11:00,2016-06-17 16:44:00,Business,New Orleans,Kenner,12.2,,New Orleans ➝ Kenner,June,0 days 23:27:00,Friday,6,16,Afternoon
+2016-06-18 00:29:00,2016-06-18 00:51:00,Business,Morrisville,Cary,8.7,,Morrisville ➝ Cary,June,0 days 23:38:00,Saturday,6,0,Night
+2016-06-19 02:39:00,2016-06-19 02:50:00,Business,Cary,Raleigh,6.0,,Cary ➝ Raleigh,June,0 days 23:49:00,Sunday,6,2,Night
+2016-06-19 05:51:00,2016-06-19 06:00:00,Business,Raleigh,Cary,5.9,,Raleigh ➝ Cary,June,0 days 23:51:00,Sunday,6,5,Night
+2016-06-21 15:39:00,2016-06-21 16:08:00,Business,Cary,Raleigh,19.3,,Cary ➝ Raleigh,June,0 days 23:31:00,Tuesday,6,15,Afternoon
+2016-06-21 17:11:00,2016-06-21 18:02:00,Business,Raleigh,Cary,16.6,Meal/Entertain,Raleigh ➝ Cary,June,0 days 23:09:00,Tuesday,6,17,Evening
+2016-06-24 10:41:00,2016-06-24 10:57:00,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,Whitebridge ➝ Waverly Place,June,0 days 23:44:00,Friday,6,10,Morning
+2016-06-24 11:54:00,2016-06-24 12:01:00,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,Waverly Place ➝ Macgregor Downs,June,0 days 23:53:00,Friday,6,11,Morning
+2016-06-24 12:19:00,2016-06-24 12:37:00,Business,Cary,Raleigh,8.6,Errand/Supplies,Cary ➝ Raleigh,June,0 days 23:42:00,Friday,6,12,Afternoon
+2016-06-24 12:50:00,2016-06-24 13:12:00,Business,Raleigh,Morrisville,9.0,Errand/Supplies,Raleigh ➝ Morrisville,June,0 days 23:38:00,Friday,6,12,Afternoon
+2016-06-24 13:18:00,2016-06-24 13:27:00,Business,Morrisville,Cary,3.1,Errand/Supplies,Morrisville ➝ Cary,June,0 days 23:51:00,Friday,6,13,Afternoon
+2016-06-24 14:01:00,2016-06-24 14:20:00,Business,Cary,Morrisville,8.4,Temporary Site,Cary ➝ Morrisville,June,0 days 23:41:00,Friday,6,14,Afternoon
+2016-06-24 20:44:00,2016-06-24 21:02:00,Business,Kenner,New Orleans,12.8,,Kenner ➝ New Orleans,June,0 days 23:42:00,Friday,6,20,Evening
+2016-06-25 09:03:00,2016-06-25 09:12:00,Business,CBD,Bywater,4.5,,CBD ➝ Bywater,June,0 days 23:51:00,Saturday,6,9,Morning
+2016-06-25 09:15:00,2016-06-25 10:08:00,Business,New Orleans,Chalmette,11.8,Between Offices,New Orleans ➝ Chalmette,June,0 days 23:07:00,Saturday,6,9,Morning
+2016-06-25 10:18:00,2016-06-25 10:25:00,Business,Chalmette,Arabi,1.1,Errand/Supplies,Chalmette ➝ Arabi,June,0 days 23:53:00,Saturday,6,10,Morning
+2016-06-25 10:50:00,2016-06-25 11:18:00,Business,Arabi,Metairie,17.0,Meal/Entertain,Arabi ➝ Metairie,June,0 days 23:32:00,Saturday,6,10,Morning
+2016-06-25 11:25:00,2016-06-25 11:34:00,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,Pontchartrain Shores ➝ Pontchartrain Shores,June,0 days 23:51:00,Saturday,6,11,Morning
+2016-06-25 11:53:00,2016-06-25 13:21:00,Business,Metairie,New Orleans,15.5,Meeting,Metairie ➝ New Orleans,June,0 days 22:32:00,Saturday,6,11,Morning
+2016-06-25 19:47:00,2016-06-25 19:58:00,Business,Storyville,Marigny,1.6,,Storyville ➝ Marigny,June,0 days 23:49:00,Saturday,6,19,Evening
+2016-06-25 23:19:00,2016-06-25 23:26:00,Business,Marigny,Storyville,1.5,,Marigny ➝ Storyville,June,0 days 23:53:00,Saturday,6,23,Night
+2016-06-26 17:43:00,2016-06-26 18:18:00,Business,New Orleans,Kenner,12.6,Meeting,New Orleans ➝ Kenner,June,0 days 23:25:00,Sunday,6,17,Evening
+2016-06-26 18:45:00,2016-06-26 19:12:00,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,,Pontchartrain Shores ➝ Pontchartrain Shores,June,0 days 23:33:00,Sunday,6,18,Evening
+2016-06-26 19:41:00,2016-06-26 19:50:00,Business,Kenner,Kenner,2.2,,Kenner ➝ Kenner,June,0 days 23:51:00,Sunday,6,19,Evening
+2016-06-26 21:14:00,2016-06-26 21:42:00,Business,Kenner,New Orleans,13.0,,Kenner ➝ New Orleans,June,0 days 23:32:00,Sunday,6,21,Night
+2016-06-27 07:37:00,2016-06-27 08:48:00,Business,New Orleans,Covington,46.9,,New Orleans ➝ Covington,June,0 days 22:49:00,Monday,6,7,Morning
+2016-06-27 08:51:00,2016-06-27 09:00:00,Business,Covington,Covington,2.5,,Covington ➝ Covington,June,0 days 23:51:00,Monday,6,8,Morning
+2016-06-27 09:05:00,2016-06-27 09:33:00,Business,Covington,Covington,8.6,,Covington ➝ Covington,June,0 days 23:32:00,Monday,6,9,Morning
+2016-06-27 09:43:00,2016-06-27 10:08:00,Business,Covington,Covington,5.2,,Covington ➝ Covington,June,0 days 23:35:00,Monday,6,9,Morning
+2016-06-27 10:22:00,2016-06-27 10:39:00,Business,Covington,Covington,7.6,,Covington ➝ Covington,June,0 days 23:43:00,Monday,6,10,Morning
+2016-06-27 10:51:00,2016-06-27 10:58:00,Business,Covington,Covington,1.8,,Covington ➝ Covington,June,0 days 23:53:00,Monday,6,10,Morning
+2016-06-27 11:06:00,2016-06-27 11:24:00,Business,Covington,Mandeville,4.7,,Covington ➝ Mandeville,June,0 days 23:42:00,Monday,6,11,Morning
+2016-06-27 11:30:00,2016-06-27 11:42:00,Business,Mandeville,Mandeville,2.8,,Mandeville ➝ Mandeville,June,0 days 23:48:00,Monday,6,11,Morning
+2016-06-27 12:22:00,2016-06-27 13:02:00,Business,Mandeville,Metairie,30.0,,Mandeville ➝ Metairie,June,0 days 23:20:00,Monday,6,12,Afternoon
+2016-06-27 13:56:00,2016-06-27 14:05:00,Business,Metairie,Kenner,4.4,,Metairie ➝ Kenner,June,0 days 23:51:00,Monday,6,13,Afternoon
+2016-06-27 21:09:00,2016-06-27 21:19:00,Business,Jamestown Court,Jamestown Court,1.0,,Jamestown Court ➝ Jamestown Court,June,0 days 23:50:00,Monday,6,21,Night
+2016-06-28 00:48:00,2016-06-28 01:05:00,Business,Morrisville,Cary,8.2,Customer Visit,Morrisville ➝ Cary,June,0 days 23:43:00,Tuesday,6,0,Night
+2016-06-28 20:13:00,2016-06-28 20:33:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,June,0 days 23:40:00,Tuesday,6,20,Evening
+2016-06-28 23:34:00,2016-06-28 23:59:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:35:00,Tuesday,6,23,Night
+2016-06-28 23:34:00,2016-06-28 23:59:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:35:00,Tuesday,6,23,Night
+2016-06-29 08:56:00,2016-06-29 09:24:00,Business,Cary,Morrisville,7.3,,Cary ➝ Morrisville,June,0 days 23:32:00,Wednesday,6,8,Morning
+2016-06-29 10:22:00,2016-06-29 10:38:00,Business,Morrisville,Cary,7.4,,Morrisville ➝ Cary,June,0 days 23:44:00,Wednesday,6,10,Morning
+2016-06-29 11:49:00,2016-06-29 11:51:00,Business,Whitebridge,Westpark Place,1.6,,Whitebridge ➝ Westpark Place,June,0 days 23:58:00,Wednesday,6,11,Morning
+2016-06-29 12:11:00,2016-06-29 12:16:00,Business,Westpark Place,Whitebridge,1.8,,Westpark Place ➝ Whitebridge,June,0 days 23:55:00,Wednesday,6,12,Afternoon
+2016-06-29 20:11:00,2016-06-29 20:29:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,June,0 days 23:42:00,Wednesday,6,20,Evening
+2016-06-29 23:38:00,2016-06-30 00:00:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,June,0 days 23:38:00,Wednesday,6,23,Night
+2016-06-30 20:09:00,2016-06-30 20:26:00,Business,Cary,Durham,9.9,Meeting,Cary ➝ Durham,June,0 days 23:43:00,Thursday,6,20,Evening
+2016-07-01 00:00:00,2016-07-01 00:25:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,July,0 days 23:35:00,Friday,7,0,Night
+2016-07-01 09:34:00,2016-07-01 09:57:00,Business,Cary,Raleigh,13.3,Meeting,Cary ➝ Raleigh,July,0 days 23:37:00,Friday,7,9,Morning
+2016-07-01 12:36:00,2016-07-01 13:00:00,Business,Raleigh,Cary,11.3,Meeting,Raleigh ➝ Cary,July,0 days 23:36:00,Friday,7,12,Afternoon
+2016-07-01 20:06:00,2016-07-01 20:24:00,Business,Cary,Durham,10.5,Meeting,Cary ➝ Durham,July,0 days 23:42:00,Friday,7,20,Evening
+2016-07-01 23:48:00,2016-07-02 00:09:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,July,0 days 23:39:00,Friday,7,23,Night
+2016-07-02 20:18:00,2016-07-02 20:36:00,Business,Cary,Durham,10.1,Meeting,Cary ➝ Durham,July,0 days 23:42:00,Saturday,7,20,Evening
+2016-07-02 23:48:00,2016-07-03 00:12:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,July,0 days 23:36:00,Saturday,7,23,Night
+2016-07-03 00:28:00,2016-07-03 00:38:00,Business,Cary,Morrisville,3.1,Errand/Supplies,Cary ➝ Morrisville,July,0 days 23:50:00,Sunday,7,0,Night
+2016-07-03 03:02:00,2016-07-03 03:08:00,Business,Morrisville,Cary,3.1,Errand/Supplies,Morrisville ➝ Cary,July,0 days 23:54:00,Sunday,7,3,Night
+2016-07-03 20:00:00,2016-07-03 20:18:00,Business,Cary,Durham,9.9,Meeting,Cary ➝ Durham,July,0 days 23:42:00,Sunday,7,20,Evening
+2016-07-04 00:32:00,2016-07-04 00:47:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,July,0 days 23:45:00,Monday,7,0,Night
+2016-07-04 17:31:00,2016-07-04 17:49:00,Business,Whitebridge,Summerwinds,8.8,Meeting,Whitebridge ➝ Summerwinds,July,0 days 23:42:00,Monday,7,17,Evening
+2016-07-04 18:23:00,2016-07-04 18:49:00,Business,Summerwinds,Whitebridge,8.7,Temporary Site,Summerwinds ➝ Whitebridge,July,0 days 23:34:00,Monday,7,18,Evening
+2016-07-04 20:00:00,2016-07-04 20:17:00,Business,Cary,Durham,11.8,Meeting,Cary ➝ Durham,July,0 days 23:43:00,Monday,7,20,Evening
+2016-07-05 00:00:00,2016-07-05 00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies,Parkwood ➝ Parkwood,July,0 days 23:55:00,Tuesday,7,0,Night
+2016-07-05 00:08:00,2016-07-05 00:28:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,July,0 days 23:40:00,Tuesday,7,0,Night
+2016-07-05 16:48:00,2016-07-05 16:52:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,Whitebridge ➝ Whitebridge,July,0 days 23:56:00,Tuesday,7,16,Afternoon
+2016-07-05 20:06:00,2016-07-05 20:26:00,Business,Cary,Durham,9.9,,Cary ➝ Durham,July,0 days 23:40:00,Tuesday,7,20,Evening
+2016-07-05 22:41:00,2016-07-05 23:02:00,Business,Durham,Morrisville,8.6,,Durham ➝ Morrisville,July,0 days 23:39:00,Tuesday,7,22,Night
+2016-07-06 00:33:00,2016-07-06 00:53:00,Business,Morrisville,Cary,6.3,Meal/Entertain,Morrisville ➝ Cary,July,0 days 23:40:00,Wednesday,7,0,Night
+2016-07-06 09:06:00,2016-07-06 09:25:00,Business,Cary,Durham,9.9,Meeting,Cary ➝ Durham,July,0 days 23:41:00,Wednesday,7,9,Morning
+2016-07-06 12:48:00,2016-07-06 13:08:00,Business,Durham,Cary,9.9,,Durham ➝ Cary,July,0 days 23:40:00,Wednesday,7,12,Afternoon
+2016-07-06 20:04:00,2016-07-06 20:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,Cary ➝ Morrisville,July,0 days 23:50:00,Wednesday,7,20,Evening
+2016-07-06 23:46:00,2016-07-06 23:59:00,Business,Morrisville,Cary,3.1,Customer Visit,Morrisville ➝ Cary,July,0 days 23:47:00,Wednesday,7,23,Night
+2016-07-07 08:22:00,2016-07-07 08:50:00,Business,Cary,Morrisville,7.9,Temporary Site,Cary ➝ Morrisville,July,0 days 23:32:00,Thursday,7,8,Morning
+2016-07-07 10:27:00,2016-07-07 10:33:00,Business,Morrisville,Cary,8.9,,Morrisville ➝ Cary,July,0 days 23:54:00,Thursday,7,10,Morning
+2016-07-07 12:59:00,2016-07-07 13:35:00,Business,Kenner,New Orleans,12.8,,Kenner ➝ New Orleans,July,0 days 23:24:00,Thursday,7,12,Afternoon
+2016-07-08 09:50:00,2016-07-08 10:13:00,Business,CBD,Pontchartrain Beach,7.7,,CBD ➝ Pontchartrain Beach,July,0 days 23:37:00,Friday,7,9,Morning
+2016-07-08 10:51:00,2016-07-08 11:12:00,Business,Pontchartrain Beach,CBD,7.0,,Pontchartrain Beach ➝ CBD,July,0 days 23:39:00,Friday,7,10,Morning
+2016-07-08 13:48:00,2016-07-08 14:11:00,Business,New Orleans,Metairie,12.5,,New Orleans ➝ Metairie,July,0 days 23:37:00,Friday,7,13,Afternoon
+2016-07-08 17:11:00,2016-07-08 17:30:00,Business,Kenner,New Orleans,13.2,,Kenner ➝ New Orleans,July,0 days 23:41:00,Friday,7,17,Evening
+2016-07-09 09:03:00,2016-07-09 09:46:00,Business,New Orleans,Kenner,13.0,,New Orleans ➝ Kenner,July,0 days 23:17:00,Saturday,7,9,Morning
+2016-07-09 09:52:00,2016-07-09 10:06:00,Business,Kenner,Metairie,4.9,,Kenner ➝ Metairie,July,0 days 23:46:00,Saturday,7,9,Morning
+2016-07-09 10:15:00,2016-07-09 10:33:00,Business,Metairie,New Orleans,8.5,,Metairie ➝ New Orleans,July,0 days 23:42:00,Saturday,7,10,Morning
+2016-07-10 14:10:00,2016-07-10 14:17:00,Business,CBD,St Thomas,1.3,,CBD ➝ St Thomas,July,0 days 23:53:00,Sunday,7,14,Afternoon
+2016-07-10 16:04:00,2016-07-10 16:15:00,Business,St Thomas,CBD,1.8,,St Thomas ➝ CBD,July,0 days 23:49:00,Sunday,7,16,Afternoon
+2016-07-10 18:05:00,2016-07-10 18:21:00,Business,New Orleans,Kenner,13.6,,New Orleans ➝ Kenner,July,0 days 23:44:00,Sunday,7,18,Evening
+2016-07-10 19:51:00,2016-07-10 20:08:00,Business,Kenner,New Orleans,13.4,,Kenner ➝ New Orleans,July,0 days 23:43:00,Sunday,7,19,Evening
+2016-07-12 16:10:00,2016-07-12 16:45:00,Business,New Orleans,Kenner,12.3,,New Orleans ➝ Kenner,July,0 days 23:25:00,Tuesday,7,16,Afternoon
+2016-07-12 19:21:00,2016-07-12 19:26:00,Personal,Kenner,Kenner,1.4,,Kenner ➝ Kenner,July,0 days 23:55:00,Tuesday,7,19,Evening
+2016-07-12 23:47:00,2016-07-13 00:11:00,Personal,Morrisville,Cary,8.7,,Morrisville ➝ Cary,July,0 days 23:36:00,Tuesday,7,23,Night
+2016-07-13 12:39:00,2016-07-13 13:20:00,Personal,Cary,Morrisville,23.5,,Cary ➝ Morrisville,July,0 days 23:19:00,Wednesday,7,12,Afternoon
+2016-07-13 13:25:00,2016-07-13 13:39:00,Personal,Morrisville,Morrisville,2.2,,Morrisville ➝ Morrisville,July,0 days 23:46:00,Wednesday,7,13,Afternoon
+2016-07-13 13:42:00,2016-07-13 13:54:00,Personal,Morrisville,Cary,4.4,,Morrisville ➝ Cary,July,0 days 23:48:00,Wednesday,7,13,Afternoon
+2016-07-14 15:51:00,2016-07-14 15:59:00,Personal,Cary,Morrisville,3.3,,Cary ➝ Morrisville,July,0 days 23:52:00,Thursday,7,15,Afternoon
+2016-07-14 16:03:00,2016-07-14 16:34:00,Business,Morrisville,Morrisville,11.8,Errand/Supplies,Morrisville ➝ Morrisville,July,0 days 23:29:00,Thursday,7,16,Afternoon
+2016-07-14 16:39:00,2016-07-14 20:05:00,Business,Morrisville,Banner Elk,195.3,,Morrisville ➝ Banner Elk,July,0 days 20:34:00,Thursday,7,16,Afternoon
+2016-07-15 11:32:00,2016-07-15 11:53:00,Personal,Banner Elk,Banner Elk,8.3,,Banner Elk ➝ Banner Elk,July,0 days 23:39:00,Friday,7,11,Morning
+2016-07-15 12:09:00,2016-07-15 12:19:00,Personal,Banner Elk,Banner Elk,3.2,,Banner Elk ➝ Banner Elk,July,0 days 23:50:00,Friday,7,12,Afternoon
+2016-07-15 12:35:00,2016-07-15 13:15:00,Personal,Banner Elk,Elk Park,22.4,,Banner Elk ➝ Elk Park,July,0 days 23:20:00,Friday,7,12,Afternoon
+2016-07-15 15:03:00,2016-07-15 15:33:00,Personal,Elk Park,Banner Elk,12.2,,Elk Park ➝ Banner Elk,July,0 days 23:30:00,Friday,7,15,Afternoon
+2016-07-15 15:40:00,2016-07-15 15:52:00,Personal,Banner Elk,Banner Elk,4.5,,Banner Elk ➝ Banner Elk,July,0 days 23:48:00,Friday,7,15,Afternoon
+2016-07-16 13:14:00,2016-07-16 14:10:00,Personal,Banner Elk,Newland,28.1,,Banner Elk ➝ Newland,July,0 days 23:04:00,Saturday,7,13,Afternoon
+2016-07-16 14:14:00,2016-07-16 14:30:00,Personal,Newland,Newland,3.8,,Newland ➝ Newland,July,0 days 23:44:00,Saturday,7,14,Afternoon
+2016-07-16 15:29:00,2016-07-16 16:57:00,Personal,Newland,Boone,41.9,,Newland ➝ Boone,July,0 days 22:32:00,Saturday,7,15,Afternoon
+2016-07-16 19:42:00,2016-07-16 20:35:00,Personal,Boone,Banner Elk,23.8,,Boone ➝ Banner Elk,July,0 days 23:07:00,Saturday,7,19,Evening
+2016-07-16 21:45:00,2016-07-16 22:18:00,Personal,Banner Elk,Banner Elk,13.0,,Banner Elk ➝ Banner Elk,July,0 days 23:27:00,Saturday,7,21,Night
+2016-07-16 22:50:00,2016-07-16 23:03:00,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,Banner Elk ➝ Banner Elk,July,0 days 23:47:00,Saturday,7,22,Night
+2016-07-17 11:23:00,2016-07-17 11:50:00,Personal,Banner Elk,Boone,15.1,Charity ($),Banner Elk ➝ Boone,July,0 days 23:33:00,Sunday,7,11,Morning
+2016-07-17 12:20:00,2016-07-17 15:25:00,Personal,Boone,Cary,180.2,Commute,Boone ➝ Cary,July,0 days 20:55:00,Sunday,7,12,Afternoon
+2016-07-18 10:37:00,2016-07-18 10:49:00,Personal,Cary,Morrisville,4.1,Moving,Cary ➝ Morrisville,July,0 days 23:48:00,Monday,7,10,Morning
+2016-07-18 10:54:00,2016-07-18 11:15:00,Personal,Morrisville,Cary,6.1,Moving,Morrisville ➝ Cary,July,0 days 23:39:00,Monday,7,10,Morning
+2016-07-18 11:25:00,2016-07-18 11:36:00,Personal,Northwoods,Preston,3.3,Moving,Northwoods ➝ Preston,July,0 days 23:49:00,Monday,7,11,Morning
+2016-07-18 11:40:00,2016-07-18 11:56:00,Personal,Preston,Whitebridge,4.7,Moving,Preston ➝ Whitebridge,July,0 days 23:44:00,Monday,7,11,Morning
+2016-07-18 17:12:00,2016-07-18 17:33:00,Business,Cary,Apex,7.2,Meeting,Cary ➝ Apex,July,0 days 23:39:00,Monday,7,17,Evening
+2016-07-18 18:32:00,2016-07-18 18:47:00,Business,Apex,Cary,5.5,Meal/Entertain,Apex ➝ Cary,July,0 days 23:45:00,Monday,7,18,Evening
+2016-07-18 19:07:00,2016-07-18 19:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,Cary ➝ Morrisville,July,0 days 23:53:00,Monday,7,19,Evening
+2016-07-18 20:28:00,2016-07-18 20:32:00,Business,Hazelwood,Weston,0.9,Errand/Supplies,Hazelwood ➝ Weston,July,0 days 23:56:00,Monday,7,20,Evening
+2016-07-18 21:11:00,2016-07-18 21:19:00,Business,Morrisville,Cary,3.8,Meal/Entertain,Morrisville ➝ Cary,July,0 days 23:52:00,Monday,7,21,Night
+2016-07-19 10:35:00,2016-07-19 10:51:00,Business,Whitebridge,Stonewater,6.4,Customer Visit,Whitebridge ➝ Stonewater,July,0 days 23:44:00,Tuesday,7,10,Morning
+2016-07-19 10:56:00,2016-07-19 11:11:00,Business,Stonewater,Lexington Park at Amberly,3.0,Meeting,Stonewater ➝ Lexington Park at Amberly,July,0 days 23:45:00,Tuesday,7,10,Morning
+2016-07-19 11:30:00,2016-07-19 12:00:00,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,Lexington Park at Amberly ➝ Whitebridge,July,0 days 23:30:00,Tuesday,7,11,Morning
+2016-07-19 17:14:00,2016-07-19 17:24:00,Business,Whitebridge,Chessington,3.9,Errand/Supplies,Whitebridge ➝ Chessington,July,0 days 23:50:00,Tuesday,7,17,Evening
+2016-07-19 17:50:00,2016-07-19 18:08:00,Personal,Chessington,Whitebridge,4.8,,Chessington ➝ Whitebridge,July,0 days 23:42:00,Tuesday,7,17,Evening
+2016-07-20 17:12:00,2016-07-20 17:24:00,Personal,Whitebridge,Edgehill Farms,2.8,,Whitebridge ➝ Edgehill Farms,July,0 days 23:48:00,Wednesday,7,17,Evening
+2016-07-20 17:50:00,2016-07-20 17:57:00,Personal,Edgehill Farms,Preston,1.4,,Edgehill Farms ➝ Preston,July,0 days 23:53:00,Wednesday,7,17,Evening
+2016-07-20 18:16:00,2016-07-20 18:20:00,Personal,Preston,Whitebridge,1.4,,Preston ➝ Whitebridge,July,0 days 23:56:00,Wednesday,7,18,Evening
+2016-07-21 17:17:00,2016-07-21 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,,Whitebridge ➝ Edgehill Farms,July,0 days 23:54:00,Thursday,7,17,Evening
+2016-07-21 17:42:00,2016-07-21 17:51:00,Business,Edgehill Farms,Burtrose,2.3,,Edgehill Farms ➝ Burtrose,July,0 days 23:51:00,Thursday,7,17,Evening
+2016-07-21 18:27:00,2016-07-21 18:42:00,Business,Cary,Morrisville,3.7,,Cary ➝ Morrisville,July,0 days 23:45:00,Thursday,7,18,Evening
+2016-07-21 19:30:00,2016-07-21 19:39:00,Business,Morrisville,Cary,2.9,,Morrisville ➝ Cary,July,0 days 23:51:00,Thursday,7,19,Evening
+2016-07-22 10:42:00,2016-07-22 10:53:00,Business,Cary,Morrisville,3.8,,Cary ➝ Morrisville,July,0 days 23:49:00,Friday,7,10,Morning
+2016-07-22 11:11:00,2016-07-22 11:25:00,Business,Morrisville,Cary,5.1,,Morrisville ➝ Cary,July,0 days 23:46:00,Friday,7,11,Morning
+2016-07-22 11:37:00,2016-07-22 12:00:00,Business,Hazelwood,Lexington Park at Amberly,9.1,,Hazelwood ➝ Lexington Park at Amberly,July,0 days 23:37:00,Friday,7,11,Morning
+2016-07-22 12:14:00,2016-07-22 12:31:00,Business,Cary,Durham,8.0,,Cary ➝ Durham,July,0 days 23:43:00,Friday,7,12,Afternoon
+2016-07-22 13:21:00,2016-07-22 13:42:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,July,0 days 23:39:00,Friday,7,13,Afternoon
+2016-07-22 14:27:00,2016-07-22 14:43:00,Business,Cary,Morrisville,6.1,Meal/Entertain,Cary ➝ Morrisville,July,0 days 23:44:00,Friday,7,14,Afternoon
+2016-07-22 15:49:00,2016-07-22 16:22:00,Business,Morrisville,Cary,12.2,,Morrisville ➝ Cary,July,0 days 23:27:00,Friday,7,15,Afternoon
+2016-07-22 18:33:00,2016-07-22 18:51:00,Business,Wayne Ridge,Whitebridge,8.0,,Wayne Ridge ➝ Whitebridge,July,0 days 23:42:00,Friday,7,18,Evening
+2016-07-23 14:27:00,2016-07-23 14:44:00,Business,Cary,Morrisville,4.0,,Cary ➝ Morrisville,July,0 days 23:43:00,Saturday,7,14,Afternoon
+2016-07-23 14:48:00,2016-07-23 15:12:00,Business,Morrisville,Cary,9.5,,Morrisville ➝ Cary,July,0 days 23:36:00,Saturday,7,14,Afternoon
+2016-07-23 15:15:00,2016-07-23 15:27:00,Business,Cary,Morrisville,3.0,,Cary ➝ Morrisville,July,0 days 23:48:00,Saturday,7,15,Afternoon
+2016-07-23 15:50:00,2016-07-23 16:10:00,Business,Morrisville,Cary,6.3,,Morrisville ➝ Cary,July,0 days 23:40:00,Saturday,7,15,Afternoon
+2016-07-23 20:17:00,2016-07-23 20:33:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,July,0 days 23:44:00,Saturday,7,20,Evening
+2016-07-23 23:18:00,2016-07-23 23:43:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,July,0 days 23:35:00,Saturday,7,23,Night
+2016-07-25 10:35:00,2016-07-25 10:41:00,Business,Whitebridge,Parkway,1.5,,Whitebridge ➝ Parkway,July,0 days 23:54:00,Monday,7,10,Morning
+2016-07-25 10:47:00,2016-07-25 10:58:00,Business,Cary,Morrisville,4.9,,Cary ➝ Morrisville,July,0 days 23:49:00,Monday,7,10,Morning
+2016-07-25 11:04:00,2016-07-25 11:33:00,Business,Morrisville,Cary,7.9,,Morrisville ➝ Cary,July,0 days 23:31:00,Monday,7,11,Morning
+2016-07-25 11:37:00,2016-07-25 11:44:00,Business,Parkway,Whitebridge,1.7,,Parkway ➝ Whitebridge,July,0 days 23:53:00,Monday,7,11,Morning
+2016-07-26 15:43:00,2016-07-26 15:49:00,Business,Whitebridge,Westpark Place,2.2,,Whitebridge ➝ Westpark Place,July,0 days 23:54:00,Tuesday,7,15,Afternoon
+2016-07-26 17:14:00,2016-07-26 17:24:00,Business,Westpark Place,Whitebridge,2.1,,Westpark Place ➝ Whitebridge,July,0 days 23:50:00,Tuesday,7,17,Evening
+2016-07-26 20:52:00,2016-07-26 21:00:00,Business,Cary,Morrisville,2.5,Meal/Entertain,Cary ➝ Morrisville,July,0 days 23:52:00,Tuesday,7,20,Evening
+2016-07-26 22:31:00,2016-07-26 22:39:00,Business,Morrisville,Cary,2.5,Meal/Entertain,Morrisville ➝ Cary,July,0 days 23:52:00,Tuesday,7,22,Night
+2016-07-27 19:08:00,2016-07-27 19:20:00,Business,Cary,Morrisville,2.8,,Cary ➝ Morrisville,July,0 days 23:48:00,Wednesday,7,19,Evening
+2016-07-27 21:34:00,2016-07-27 21:57:00,Business,Morrisville,Raleigh,14.7,,Morrisville ➝ Raleigh,July,0 days 23:37:00,Wednesday,7,21,Night
+2016-07-27 22:00:00,2016-07-27 22:26:00,Business,Raleigh,Morrisville,14.6,,Raleigh ➝ Morrisville,July,0 days 23:34:00,Wednesday,7,22,Night
+2016-07-28 00:04:00,2016-07-28 00:09:00,Business,Morrisville,Cary,2.3,,Morrisville ➝ Cary,July,0 days 23:55:00,Thursday,7,0,Night
+2016-07-29 15:45:00,2016-07-29 15:47:00,Business,Whitebridge,Westpark Place,2.2,,Whitebridge ➝ Westpark Place,July,0 days 23:58:00,Friday,7,15,Afternoon
+2016-07-29 17:27:00,2016-07-29 17:45:00,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,Westpark Place ➝ Whitebridge,July,0 days 23:42:00,Friday,7,17,Evening
+2016-07-30 17:02:00,2016-07-30 17:27:00,Business,Cary,Durham,14.0,,Cary ➝ Durham,July,0 days 23:35:00,Saturday,7,17,Evening
+2016-07-30 21:16:00,2016-07-30 21:41:00,Business,Durham,Cary,13.3,,Durham ➝ Cary,July,0 days 23:35:00,Saturday,7,21,Night
+2016-07-31 17:30:00,2016-07-31 17:37:00,Business,Westpark Place,Whitebridge,1.8,,Westpark Place ➝ Whitebridge,July,0 days 23:53:00,Sunday,7,17,Evening
+2016-08-01 12:47:00,2016-08-01 13:04:00,Business,Whitebridge,Arlington Park at Amberly,6.2,,Whitebridge ➝ Arlington Park at Amberly,August,0 days 23:43:00,Monday,8,12,Afternoon
+2016-08-01 13:08:00,2016-08-01 13:19:00,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,,Arlington Park at Amberly ➝ Lexington Park at Amberly,August,0 days 23:49:00,Monday,8,13,Afternoon
+2016-08-01 13:28:00,2016-08-01 13:46:00,Business,Lexington Park at Amberly,Westpark Place,1.9,,Lexington Park at Amberly ➝ Westpark Place,August,0 days 23:42:00,Monday,8,13,Afternoon
+2016-08-01 13:52:00,2016-08-01 14:14:00,Business,Cary,Apex,6.9,,Cary ➝ Apex,August,0 days 23:38:00,Monday,8,13,Afternoon
+2016-08-01 15:40:00,2016-08-01 15:47:00,Business,Apex,Cary,4.6,,Apex ➝ Cary,August,0 days 23:53:00,Monday,8,15,Afternoon
+2016-08-01 16:18:00,2016-08-01 16:25:00,Business,Whitebridge,Edgehill Farms,2.8,,Whitebridge ➝ Edgehill Farms,August,0 days 23:53:00,Monday,8,16,Afternoon
+2016-08-01 16:29:00,2016-08-01 16:59:00,Business,Cary,Morrisville,9.1,,Cary ➝ Morrisville,August,0 days 23:30:00,Monday,8,16,Afternoon
+2016-08-01 17:23:00,2016-08-01 17:55:00,Business,Morrisville,Cary,8.1,,Morrisville ➝ Cary,August,0 days 23:28:00,Monday,8,17,Evening
+2016-08-02 08:11:00,2016-08-02 08:32:00,Business,Cary,Morrisville,8.4,Meeting,Cary ➝ Morrisville,August,0 days 23:39:00,Tuesday,8,8,Morning
+2016-08-02 11:51:00,2016-08-02 12:15:00,Business,Arlington,Washington,4.9,,Arlington ➝ Washington,August,0 days 23:36:00,Tuesday,8,11,Morning
+2016-08-02 19:15:00,2016-08-02 19:23:00,Business,Kalorama Triangle,K Street,1.0,,Kalorama Triangle ➝ K Street,August,0 days 23:52:00,Tuesday,8,19,Evening
+2016-08-02 21:23:00,2016-08-02 21:29:00,Business,K Street,Kalorama Triangle,1.0,,K Street ➝ Kalorama Triangle,August,0 days 23:54:00,Tuesday,8,21,Night
+2016-08-03 12:46:00,2016-08-03 13:00:00,Business,West End,Northwest Rectangle,2.0,,West End ➝ Northwest Rectangle,August,0 days 23:46:00,Wednesday,8,12,Afternoon
+2016-08-03 14:59:00,2016-08-03 15:03:00,Business,K Street,Kalorama Triangle,1.1,,K Street ➝ Kalorama Triangle,August,0 days 23:56:00,Wednesday,8,14,Afternoon
+2016-08-03 16:00:00,2016-08-03 16:04:00,Business,Kalorama Triangle,Downtown,1.5,,Kalorama Triangle ➝ Downtown,August,0 days 23:56:00,Wednesday,8,16,Afternoon
+2016-08-05 17:23:00,2016-08-05 17:30:00,Business,Connecticut Avenue,Kalorama Triangle,1.3,,Connecticut Avenue ➝ Kalorama Triangle,August,0 days 23:53:00,Friday,8,17,Evening
+2016-08-05 18:17:00,2016-08-05 18:21:00,Business,Kalorama Triangle,Columbia Heights,1.8,,Kalorama Triangle ➝ Columbia Heights,August,0 days 23:56:00,Friday,8,18,Evening
+2016-08-05 19:17:00,2016-08-05 19:27:00,Business,Columbia Heights,Kalorama Triangle,1.5,,Columbia Heights ➝ Kalorama Triangle,August,0 days 23:50:00,Friday,8,19,Evening
+2016-08-06 06:40:00,2016-08-06 06:58:00,Business,Washington,Arlington,6.6,,Washington ➝ Arlington,August,0 days 23:42:00,Saturday,8,6,Morning
+2016-08-06 09:31:00,2016-08-06 09:53:00,Business,Morrisville,Cary,8.0,,Morrisville ➝ Cary,August,0 days 23:38:00,Saturday,8,9,Morning
+2016-08-07 17:14:00,2016-08-07 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,,Whitebridge ➝ Edgehill Farms,August,0 days 23:51:00,Sunday,8,17,Evening
+2016-08-07 17:28:00,2016-08-07 17:43:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,Edgehill Farms ➝ Whitebridge,August,0 days 23:45:00,Sunday,8,17,Evening
+2016-08-07 18:17:00,2016-08-07 18:23:00,Business,Cary,Morrisville,2.5,,Cary ➝ Morrisville,August,0 days 23:54:00,Sunday,8,18,Evening
+2016-08-07 20:15:00,2016-08-07 20:23:00,Business,Morrisville,Cary,2.5,Meal/Entertain,Morrisville ➝ Cary,August,0 days 23:52:00,Sunday,8,20,Evening
+2016-08-08 16:17:00,2016-08-08 16:31:00,Business,Whitebridge,Farmington Woods,5.2,,Whitebridge ➝ Farmington Woods,August,0 days 23:46:00,Monday,8,16,Afternoon
+2016-08-08 16:37:00,2016-08-08 16:50:00,Business,Farmington Woods,Edgehill Farms,4.0,,Farmington Woods ➝ Edgehill Farms,August,0 days 23:47:00,Monday,8,16,Afternoon
+2016-08-08 17:02:00,2016-08-08 17:13:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,Edgehill Farms ➝ Whitebridge,August,0 days 23:49:00,Monday,8,17,Evening
+2016-08-08 21:50:00,2016-08-08 22:15:00,Business,Cary,Morrisville,4.8,,Cary ➝ Morrisville,August,0 days 23:35:00,Monday,8,21,Night
+2016-08-08 23:28:00,2016-08-08 23:37:00,Business,Morrisville,Cary,3.2,Customer Visit,Morrisville ➝ Cary,August,0 days 23:51:00,Monday,8,23,Night
+2016-08-09 14:20:00,2016-08-09 14:38:00,Business,Whitebridge,Waverly Place,6.9,,Whitebridge ➝ Waverly Place,August,0 days 23:42:00,Tuesday,8,14,Afternoon
+2016-08-09 15:15:00,2016-08-09 15:36:00,Business,Cary,Raleigh,14.9,,Cary ➝ Raleigh,August,0 days 23:39:00,Tuesday,8,15,Afternoon
+2016-08-09 16:04:00,2016-08-09 16:37:00,Business,Raleigh,Cary,17.4,,Raleigh ➝ Cary,August,0 days 23:27:00,Tuesday,8,16,Afternoon
+2016-08-10 16:56:00,2016-08-10 17:24:00,Business,Cary,Durham,12.9,,Cary ➝ Durham,August,0 days 23:32:00,Wednesday,8,16,Afternoon
+2016-08-10 17:53:00,2016-08-10 18:28:00,Business,Durham,Apex,15.3,,Durham ➝ Apex,August,0 days 23:25:00,Wednesday,8,17,Evening
+2016-08-10 18:49:00,2016-08-10 18:50:00,Business,Apex,Apex,1.0,,Apex ➝ Apex,August,0 days 23:59:00,Wednesday,8,18,Evening
+2016-08-10 19:47:00,2016-08-10 20:02:00,Business,Apex,Cary,6.0,,Apex ➝ Cary,August,0 days 23:45:00,Wednesday,8,19,Evening
+2016-08-11 12:53:00,2016-08-11 13:00:00,Business,Whitebridge,Heritage Pines,2.2,,Whitebridge ➝ Heritage Pines,August,0 days 23:53:00,Thursday,8,12,Afternoon
+2016-08-11 13:14:00,2016-08-11 13:28:00,Business,Heritage Pines,Edgehill Farms,4.4,,Heritage Pines ➝ Edgehill Farms,August,0 days 23:46:00,Thursday,8,13,Afternoon
+2016-08-11 13:32:00,2016-08-11 13:42:00,Business,Edgehill Farms,Whitebridge,2.8,,Edgehill Farms ➝ Whitebridge,August,0 days 23:50:00,Thursday,8,13,Afternoon
+2016-08-11 18:37:00,2016-08-11 19:29:00,Business,Cary,Wake Forest,31.7,,Cary ➝ Wake Forest,August,0 days 23:08:00,Thursday,8,18,Evening
+2016-08-11 20:59:00,2016-08-11 21:44:00,Business,Wake Forest,Cary,31.9,,Wake Forest ➝ Cary,August,0 days 23:15:00,Thursday,8,20,Evening
+2016-08-12 18:49:00,2016-08-12 18:52:00,Business,Whitebridge,Westpark Place,1.9,,Whitebridge ➝ Westpark Place,August,0 days 23:57:00,Friday,8,18,Evening
+2016-08-12 18:56:00,2016-08-12 19:05:00,Business,Westpark Place,Whitebridge,1.8,,Westpark Place ➝ Whitebridge,August,0 days 23:51:00,Friday,8,18,Evening
+2016-08-13 15:35:00,2016-08-13 15:58:00,Business,Cary,Morrisville,8.4,Meeting,Cary ➝ Morrisville,August,0 days 23:37:00,Saturday,8,15,Afternoon
+2016-08-16 10:31:00,2016-08-16 10:38:00,Business,Islamabad,Islamabad,1.2,,Islamabad ➝ Islamabad,August,0 days 23:53:00,Tuesday,8,10,Morning
+2016-08-17 15:32:00,2016-08-17 15:47:00,Business,R?walpindi,Islamabad,6.4,,R?walpindi ➝ Islamabad,August,0 days 23:45:00,Wednesday,8,15,Afternoon
+2016-08-19 08:54:00,2016-08-19 09:07:00,Business,Noorpur Shahan,Islamabad,3.3,,Noorpur Shahan ➝ Islamabad,August,0 days 23:47:00,Friday,8,8,Morning
+2016-08-19 09:27:00,2016-08-19 09:47:00,Business,Islamabad,R?walpindi,6.5,,Islamabad ➝ R?walpindi,August,0 days 23:40:00,Friday,8,9,Morning
+2016-08-19 15:51:00,2016-08-19 16:06:00,Business,Islamabad,Islamabad,3.2,,Islamabad ➝ Islamabad,August,0 days 23:45:00,Friday,8,15,Afternoon
+2016-08-21 18:10:00,2016-08-21 18:17:00,Business,Islamabad,Islamabad,1.4,,Islamabad ➝ Islamabad,August,0 days 23:53:00,Sunday,8,18,Evening
+2016-08-22 13:02:00,2016-08-22 13:11:00,Business,Islamabad,Islamabad,1.5,,Islamabad ➝ Islamabad,August,0 days 23:51:00,Monday,8,13,Afternoon
+2016-08-22 20:53:00,2016-08-22 21:31:00,Business,R?walpindi,R?walpindi,4.1,,R?walpindi ➝ R?walpindi,August,0 days 23:22:00,Monday,8,20,Evening
+2016-08-23 13:19:00,2016-08-23 13:30:00,Business,Noorpur Shahan,Islamabad,4.4,,Noorpur Shahan ➝ Islamabad,August,0 days 23:49:00,Tuesday,8,13,Afternoon
+2016-08-26 14:10:00,2016-08-26 14:33:00,Business,Lahore,Lahore,7.4,,Lahore ➝ Lahore,August,0 days 23:37:00,Friday,8,14,Afternoon
+2016-08-26 15:23:00,2016-08-26 15:35:00,Business,Lahore,Lahore,1.5,,Lahore ➝ Lahore,August,0 days 23:48:00,Friday,8,15,Afternoon
+2016-08-26 18:42:00,2016-08-26 18:56:00,Business,Lahore,Lahore,3.4,,Lahore ➝ Lahore,August,0 days 23:46:00,Friday,8,18,Evening
+2016-08-26 19:31:00,2016-08-26 19:54:00,Business,Lahore,Lahore,3.8,,Lahore ➝ Lahore,August,0 days 23:37:00,Friday,8,19,Evening
+2016-08-27 11:47:00,2016-08-27 12:06:00,Business,Lahore,Lahore,7.0,,Lahore ➝ Lahore,August,0 days 23:41:00,Saturday,8,11,Morning
+2016-08-27 12:12:00,2016-08-27 12:17:00,Business,Lahore,Lahore,0.9,,Lahore ➝ Lahore,August,0 days 23:55:00,Saturday,8,12,Afternoon
+2016-08-28 16:39:00,2016-08-28 16:55:00,Business,Noorpur Shahan,Islamabad,6.2,,Noorpur Shahan ➝ Islamabad,August,0 days 23:44:00,Sunday,8,16,Afternoon
+2016-08-28 17:37:00,2016-08-28 17:55:00,Business,Islamabad,Islamabad,5.3,,Islamabad ➝ Islamabad,August,0 days 23:42:00,Sunday,8,17,Evening
+2016-08-29 13:38:00,2016-08-29 13:48:00,Business,Islamabad,Islamabad,4.3,,Islamabad ➝ Islamabad,August,0 days 23:50:00,Monday,8,13,Afternoon
+2016-08-29 14:31:00,2016-08-29 14:41:00,Business,Islamabad,Islamabad,2.5,,Islamabad ➝ Islamabad,August,0 days 23:50:00,Monday,8,14,Afternoon
+2016-08-29 18:27:00,2016-08-29 18:36:00,Business,Islamabad,Islamabad,2.6,,Islamabad ➝ Islamabad,August,0 days 23:51:00,Monday,8,18,Evening
+2016-08-30 13:25:00,2016-08-30 13:46:00,Business,Islamabad,Islamabad,4.4,,Islamabad ➝ Islamabad,August,0 days 23:39:00,Tuesday,8,13,Afternoon
+2016-09-23 13:15:00,2016-09-23 13:40:00,Business,Karachi,Karachi,2.9,,Karachi ➝ Karachi,September,0 days 23:35:00,Friday,9,13,Afternoon
+2016-09-27 13:21:00,2016-09-27 14:43:00,Business,Lahore,Lahore,9.8,,Lahore ➝ Lahore,September,0 days 22:38:00,Tuesday,9,13,Afternoon
+2016-09-30 17:39:00,2016-09-30 20:20:00,Business,Islamabad,Islamabad,37.7,,Islamabad ➝ Islamabad,September,0 days 21:19:00,Friday,9,17,Evening
+2016-10-03 18:17:00,2016-10-03 18:34:00,Business,Islamabad,Islamabad,2.8,,Islamabad ➝ Islamabad,October,0 days 23:43:00,Monday,10,18,Evening
+2016-10-03 18:51:00,2016-10-03 19:01:00,Business,Islamabad,Islamabad,1.6,,Islamabad ➝ Islamabad,October,0 days 23:50:00,Monday,10,18,Evening
+2016-10-07 11:27:00,2016-10-07 11:50:00,Business,Lahore,Lahore,2.6,,Lahore ➝ Lahore,October,0 days 23:37:00,Friday,10,11,Morning
+2016-10-07 15:47:00,2016-10-07 16:02:00,Business,Lahore,Lahore,2.4,,Lahore ➝ Lahore,October,0 days 23:45:00,Friday,10,15,Afternoon
+2016-10-07 18:08:00,2016-10-07 18:27:00,Business,Lahore,Lahore,3.1,,Lahore ➝ Lahore,October,0 days 23:41:00,Friday,10,18,Evening
+2016-10-07 18:33:00,2016-10-07 19:01:00,Business,Lahore,Lahore,6.1,,Lahore ➝ Lahore,October,0 days 23:32:00,Friday,10,18,Evening
+2016-10-08 15:03:00,2016-10-08 15:03:00,Business,Karachi,Karachi,3.6,,Karachi ➝ Karachi,October,0 days 00:00:00,Saturday,10,15,Afternoon
+2016-10-10 17:22:00,2016-10-10 17:28:00,Business,Islamabad,Islamabad,1.7,,Islamabad ➝ Islamabad,October,0 days 23:54:00,Monday,10,17,Evening
+2016-10-13 12:08:00,2016-10-13 12:14:00,Business,Islamabad,Islamabad,1.0,,Islamabad ➝ Islamabad,October,0 days 23:54:00,Thursday,10,12,Afternoon
+2016-10-13 13:02:00,2016-10-13 13:02:00,Business,Islamabad,Islamabad,0.7,,Islamabad ➝ Islamabad,October,0 days 00:00:00,Thursday,10,13,Afternoon
+2016-10-13 13:37:00,2016-10-13 13:46:00,Business,Islamabad,Islamabad,2.3,,Islamabad ➝ Islamabad,October,0 days 23:51:00,Thursday,10,13,Afternoon
+2016-10-15 22:28:00,2016-10-15 22:48:00,Business,Morrisville,Morrisville,6.2,,Morrisville ➝ Morrisville,October,0 days 23:40:00,Saturday,10,22,Night
+2016-10-16 00:01:00,2016-10-16 00:14:00,Business,Morrisville,Cary,3.1,,Morrisville ➝ Cary,October,0 days 23:47:00,Sunday,10,0,Night
+2016-10-16 12:52:00,2016-10-16 13:11:00,Business,Cary,Durham,10.5,Meeting,Cary ➝ Durham,October,0 days 23:41:00,Sunday,10,12,Afternoon
+2016-10-16 14:40:00,2016-10-16 15:01:00,Business,Durham,Morrisville,8.1,,Durham ➝ Morrisville,October,0 days 23:39:00,Sunday,10,14,Afternoon
+2016-10-16 15:10:00,2016-10-16 15:19:00,Business,Morrisville,Cary,3.1,,Morrisville ➝ Cary,October,0 days 23:51:00,Sunday,10,15,Afternoon
+2016-10-16 19:27:00,2016-10-16 19:33:00,Business,Whitebridge,Parkway,2.1,Meeting,Whitebridge ➝ Parkway,October,0 days 23:54:00,Sunday,10,19,Evening
+2016-10-16 20:30:00,2016-10-16 20:39:00,Business,Cary,Morrisville,4.3,,Cary ➝ Morrisville,October,0 days 23:51:00,Sunday,10,20,Evening
+2016-10-16 21:34:00,2016-10-16 21:41:00,Business,Morrisville,Cary,2.5,Meal/Entertain,Morrisville ➝ Cary,October,0 days 23:53:00,Sunday,10,21,Night
+2016-10-17 15:19:00,2016-10-17 15:57:00,Business,Cary,Raleigh,20.6,,Cary ➝ Raleigh,October,0 days 23:22:00,Monday,10,15,Afternoon
+2016-10-17 16:29:00,2016-10-17 17:11:00,Business,Raleigh,Cary,17.6,,Raleigh ➝ Cary,October,0 days 23:18:00,Monday,10,16,Afternoon
+2016-10-17 18:02:00,2016-10-17 18:16:00,Business,Cary,Apex,5.6,,Cary ➝ Apex,October,0 days 23:46:00,Monday,10,18,Evening
+2016-10-17 18:31:00,2016-10-17 18:45:00,Business,Apex,Apex,3.3,,Apex ➝ Apex,October,0 days 23:46:00,Monday,10,18,Evening
+2016-10-17 19:08:00,2016-10-17 19:25:00,Business,Apex,Cary,5.3,,Apex ➝ Cary,October,0 days 23:43:00,Monday,10,19,Evening
+2016-10-18 08:12:00,2016-10-18 08:22:00,Business,Whitebridge,Edgehill Farms,3.3,,Whitebridge ➝ Edgehill Farms,October,0 days 23:50:00,Tuesday,10,8,Morning
+2016-10-18 08:53:00,2016-10-18 09:02:00,Business,Edgehill Farms,Whitebridge,3.3,,Edgehill Farms ➝ Whitebridge,October,0 days 23:51:00,Tuesday,10,8,Morning
+2016-10-18 10:41:00,2016-10-18 11:09:00,Business,Cary,Morrisville,7.9,Temporary Site,Cary ➝ Morrisville,October,0 days 23:32:00,Tuesday,10,10,Morning
+2016-10-18 18:12:00,2016-10-18 18:33:00,Business,Oakland,Emeryville,13.0,,Oakland ➝ Emeryville,October,0 days 23:39:00,Tuesday,10,18,Evening
+2016-10-18 19:03:00,2016-10-18 19:13:00,Business,Emeryville,Berkeley,3.0,,Emeryville ➝ Berkeley,October,0 days 23:50:00,Tuesday,10,19,Evening
+2016-10-18 20:31:00,2016-10-18 20:37:00,Business,Berkeley,Emeryville,3.0,,Berkeley ➝ Emeryville,October,0 days 23:54:00,Tuesday,10,20,Evening
+2016-10-19 09:33:00,2016-10-19 09:47:00,Business,Emeryville,Oakland,3.8,,Emeryville ➝ Oakland,October,0 days 23:46:00,Wednesday,10,9,Morning
+2016-10-19 09:54:00,2016-10-19 10:21:00,Business,Oakland,San Francisco,9.5,,Oakland ➝ San Francisco,October,0 days 23:33:00,Wednesday,10,9,Morning
+2016-10-19 13:45:00,2016-10-19 13:56:00,Business,SOMISSPO,French Quarter,1.7,,SOMISSPO ➝ French Quarter,October,0 days 23:49:00,Wednesday,10,13,Afternoon
+2016-10-19 14:02:00,2016-10-19 14:31:00,Business,San Francisco,Berkeley,10.8,,San Francisco ➝ Berkeley,October,0 days 23:31:00,Wednesday,10,14,Afternoon
+2016-10-19 15:44:00,2016-10-19 16:02:00,Business,West Berkeley,North Berkeley Hills,4.1,,West Berkeley ➝ North Berkeley Hills,October,0 days 23:42:00,Wednesday,10,15,Afternoon
+2016-10-19 16:06:00,2016-10-19 16:19:00,Business,North Berkeley Hills,Southside,2.2,,North Berkeley Hills ➝ Southside,October,0 days 23:47:00,Wednesday,10,16,Afternoon
+2016-10-19 16:33:00,2016-10-19 17:01:00,Business,Berkeley,Emeryville,4.6,,Berkeley ➝ Emeryville,October,0 days 23:32:00,Wednesday,10,16,Afternoon
+2016-10-20 11:26:00,2016-10-20 11:34:00,Business,Emeryville,Berkeley,3.1,,Emeryville ➝ Berkeley,October,0 days 23:52:00,Thursday,10,11,Morning
+2016-10-20 12:19:00,2016-10-20 13:17:00,Business,Berkeley,San Jose,47.7,,Berkeley ➝ San Jose,October,0 days 23:02:00,Thursday,10,12,Afternoon
+2016-10-20 20:44:00,2016-10-20 21:37:00,Business,San Jose,Emeryville,44.6,,San Jose ➝ Emeryville,October,0 days 23:07:00,Thursday,10,20,Evening
+2016-10-21 10:06:00,2016-10-21 10:21:00,Business,Emeryville,Oakland,13.2,,Emeryville ➝ Oakland,October,0 days 23:45:00,Friday,10,10,Morning
+2016-10-22 00:54:00,2016-10-22 01:09:00,Business,Morrisville,Cary,8.7,,Morrisville ➝ Cary,October,0 days 23:45:00,Saturday,10,0,Night
+2016-10-22 13:26:00,2016-10-22 14:03:00,Business,Cary,Raleigh,17.2,,Cary ➝ Raleigh,October,0 days 23:23:00,Saturday,10,13,Afternoon
+2016-10-22 17:08:00,2016-10-22 17:55:00,Business,Raleigh,Cary,14.0,,Raleigh ➝ Cary,October,0 days 23:13:00,Saturday,10,17,Evening
+2016-10-23 09:24:00,2016-10-23 10:05:00,Business,Cary,Raleigh,28.1,,Cary ➝ Raleigh,October,0 days 23:19:00,Sunday,10,9,Morning
+2016-10-23 12:17:00,2016-10-23 12:59:00,Business,Raleigh,Cary,28.2,,Raleigh ➝ Cary,October,0 days 23:18:00,Sunday,10,12,Afternoon
+2016-10-23 19:04:00,2016-10-23 19:14:00,Business,Cary,Morrisville,3.1,Meal/Entertain,Cary ➝ Morrisville,October,0 days 23:50:00,Sunday,10,19,Evening
+2016-10-23 21:10:00,2016-10-23 21:25:00,Business,Morrisville,Cary,3.1,Customer Visit,Morrisville ➝ Cary,October,0 days 23:45:00,Sunday,10,21,Night
+2016-10-24 14:57:00,2016-10-24 15:26:00,Business,Cary,Durham,16.4,,Cary ➝ Durham,October,0 days 23:31:00,Monday,10,14,Afternoon
+2016-10-24 15:33:00,2016-10-24 16:13:00,Business,Durham,Morrisville,15.4,,Durham ➝ Morrisville,October,0 days 23:20:00,Monday,10,15,Afternoon
+2016-10-24 16:34:00,2016-10-24 16:41:00,Business,Morrisville,Cary,2.2,,Morrisville ➝ Cary,October,0 days 23:53:00,Monday,10,16,Afternoon
+2016-10-25 13:27:00,2016-10-25 14:08:00,Business,Cary,Apex,11.2,,Cary ➝ Apex,October,0 days 23:19:00,Tuesday,10,13,Afternoon
+2016-10-25 15:04:00,2016-10-25 15:11:00,Business,Apex,Eagle Rock,2.2,,Apex ➝ Eagle Rock,October,0 days 23:53:00,Tuesday,10,15,Afternoon
+2016-10-25 15:16:00,2016-10-25 15:33:00,Business,Eagle Rock,Cary,3.6,,Eagle Rock ➝ Cary,October,0 days 23:43:00,Tuesday,10,15,Afternoon
+2016-10-25 20:00:00,2016-10-25 20:11:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,Whitebridge ➝ Savon Height,October,0 days 23:49:00,Tuesday,10,20,Evening
+2016-10-25 20:54:00,2016-10-25 21:03:00,Business,Savon Height,Parkway,4.9,,Savon Height ➝ Parkway,October,0 days 23:51:00,Tuesday,10,20,Evening
+2016-10-25 22:24:00,2016-10-25 22:45:00,Business,Parkway,Whitebridge,8.7,Errand/Supplies,Parkway ➝ Whitebridge,October,0 days 23:39:00,Tuesday,10,22,Night
+2016-10-26 19:25:00,2016-10-26 19:31:00,Business,Whitebridge,Parkway,2.1,Meeting,Whitebridge ➝ Parkway,October,0 days 23:54:00,Wednesday,10,19,Evening
+2016-10-26 20:53:00,2016-10-26 21:03:00,Business,Parkway,Whitebridge,2.1,,Parkway ➝ Whitebridge,October,0 days 23:50:00,Wednesday,10,20,Evening
+2016-10-27 18:51:00,2016-10-27 19:16:00,Business,Cary,Morrisville,8.4,Meeting,Cary ➝ Morrisville,October,0 days 23:35:00,Thursday,10,18,Evening
+2016-10-27 19:20:00,2016-10-27 19:35:00,Business,Morrisville,Morrisville,5.9,,Morrisville ➝ Morrisville,October,0 days 23:45:00,Thursday,10,19,Evening
+2016-10-27 19:52:00,2016-10-27 20:21:00,Business,Huntington Woods,Huntington Woods,12.1,,Huntington Woods ➝ Huntington Woods,October,0 days 23:31:00,Thursday,10,19,Evening
+2016-10-27 20:47:00,2016-10-27 20:54:00,Business,Huntington Woods,Weston,3.9,,Huntington Woods ➝ Weston,October,0 days 23:53:00,Thursday,10,20,Evening
+2016-10-27 21:26:00,2016-10-27 21:48:00,Business,Morrisville,Cary,6.2,,Morrisville ➝ Cary,October,0 days 23:38:00,Thursday,10,21,Night
+2016-10-28 11:34:00,2016-10-28 11:52:00,Business,Cary,Durham,10.4,Meeting,Cary ➝ Durham,October,0 days 23:42:00,Friday,10,11,Morning
+2016-10-28 13:06:00,2016-10-28 13:36:00,Business,Durham,Cary,9.9,Meeting,Durham ➝ Cary,October,0 days 23:30:00,Friday,10,13,Afternoon
+2016-10-28 15:53:00,2016-10-28 17:59:00,Business,Cary,Winston Salem,107.0,Meeting,Cary ➝ Winston Salem,October,0 days 21:54:00,Friday,10,15,Afternoon
+2016-10-28 18:13:00,2016-10-28 20:07:00,Business,Winston Salem,Asheville,133.6,Meeting,Winston Salem ➝ Asheville,October,0 days 22:06:00,Friday,10,18,Evening
+2016-10-28 20:13:00,2016-10-28 22:00:00,Business,Asheville,Topton,91.8,Meeting,Asheville ➝ Topton,October,0 days 22:13:00,Friday,10,20,Evening
+2016-10-29 15:22:00,2016-10-29 17:05:00,Business,Topton,Hayesville,40.7,Meeting,Topton ➝ Hayesville,October,0 days 22:17:00,Saturday,10,15,Afternoon
+2016-10-29 17:13:00,2016-10-29 19:19:00,Business,Hayesville,Topton,75.7,,Hayesville ➝ Topton,October,0 days 21:54:00,Saturday,10,17,Evening
+2016-10-30 07:49:00,2016-10-30 08:30:00,Business,Topton,Bryson City,29.8,,Topton ➝ Bryson City,October,0 days 23:19:00,Sunday,10,7,Morning
+2016-10-30 09:07:00,2016-10-30 10:09:00,Business,Bryson City,Bryson City,16.3,,Bryson City ➝ Bryson City,October,0 days 22:58:00,Sunday,10,9,Morning
+2016-10-30 10:11:00,2016-10-30 10:38:00,Business,Bryson City,Bryson City,6.5,,Bryson City ➝ Bryson City,October,0 days 23:33:00,Sunday,10,10,Morning
+2016-10-30 10:51:00,2016-10-30 11:21:00,Business,Bryson City,Bryson City,6.3,,Bryson City ➝ Bryson City,October,0 days 23:30:00,Sunday,10,10,Morning
+2016-10-30 12:24:00,2016-10-30 12:35:00,Business,Bryson City,Almond,6.6,,Bryson City ➝ Almond,October,0 days 23:49:00,Sunday,10,12,Afternoon
+2016-10-30 12:58:00,2016-10-30 13:18:00,Business,Almond,Bryson City,15.2,,Almond ➝ Bryson City,October,0 days 23:40:00,Sunday,10,12,Afternoon
+2016-10-30 13:24:00,2016-10-30 14:37:00,Business,Bryson City,Asheville,68.4,,Bryson City ➝ Asheville,October,0 days 22:47:00,Sunday,10,13,Afternoon
+2016-10-30 15:22:00,2016-10-30 18:23:00,Business,Asheville,Mebane,195.9,,Asheville ➝ Mebane,October,0 days 20:59:00,Sunday,10,15,Afternoon
+2016-10-30 18:26:00,2016-10-30 19:39:00,Business,Mebane,Cary,45.2,,Mebane ➝ Cary,October,0 days 22:47:00,Sunday,10,18,Evening
+2016-10-31 18:11:00,2016-10-31 18:20:00,Business,Cary,Morrisville,3.2,,Cary ➝ Morrisville,October,0 days 23:51:00,Monday,10,18,Evening
+2016-10-31 18:47:00,2016-10-31 19:16:00,Business,Morrisville,Raleigh,10.3,,Morrisville ➝ Raleigh,October,0 days 23:31:00,Monday,10,18,Evening
+2016-10-31 20:18:00,2016-10-31 20:44:00,Business,Raleigh,Cary,13.1,,Raleigh ➝ Cary,October,0 days 23:34:00,Monday,10,20,Evening
+2016-10-31 21:45:00,2016-10-31 22:10:00,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,Savon Height ➝ Whitebridge,October,0 days 23:35:00,Monday,10,21,Night
+2016-11-01 11:50:00,2016-11-01 12:27:00,Business,Cary,Durham,16.5,,Cary ➝ Durham,November,0 days 23:23:00,Tuesday,11,11,Morning
+2016-11-01 16:29:00,2016-11-01 17:02:00,Business,Durham,Cary,12.8,,Durham ➝ Cary,November,0 days 23:27:00,Tuesday,11,16,Afternoon
+2016-11-01 17:35:00,2016-11-01 17:42:00,Business,Whitebridge,Whitebridge,1.2,,Whitebridge ➝ Whitebridge,November,0 days 23:53:00,Tuesday,11,17,Evening
+2016-11-01 19:14:00,2016-11-01 19:20:00,Business,Whitebridge,Whitebridge,1.0,,Whitebridge ➝ Whitebridge,November,0 days 23:54:00,Tuesday,11,19,Evening
+2016-11-01 19:59:00,2016-11-01 20:12:00,Business,Whitebridge,Whitebridge,4.1,,Whitebridge ➝ Whitebridge,November,0 days 23:47:00,Tuesday,11,19,Evening
+2016-11-01 20:41:00,2016-11-01 20:55:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,Whitebridge ➝ Whitebridge,November,0 days 23:46:00,Tuesday,11,20,Evening
+2016-11-02 15:10:00,2016-11-02 15:18:00,Business,Whitebridge,Westpark Place,1.4,,Whitebridge ➝ Westpark Place,November,0 days 23:52:00,Wednesday,11,15,Afternoon
+2016-11-02 15:45:00,2016-11-02 15:52:00,Business,Westpark Place,Whitebridge,1.8,,Westpark Place ➝ Whitebridge,November,0 days 23:53:00,Wednesday,11,15,Afternoon
+2016-11-02 16:46:00,2016-11-02 17:11:00,Business,Cary,Morrisville,8.5,Meeting,Cary ➝ Morrisville,November,0 days 23:35:00,Wednesday,11,16,Afternoon
+2016-11-02 17:34:00,2016-11-02 17:49:00,Business,Morrisville,Morrisville,5.0,,Morrisville ➝ Morrisville,November,0 days 23:45:00,Wednesday,11,17,Evening
+2016-11-02 17:53:00,2016-11-02 18:00:00,Business,Morrisville,Cary,3.8,,Morrisville ➝ Cary,November,0 days 23:53:00,Wednesday,11,17,Evening
+2016-11-03 11:28:00,2016-11-03 11:34:00,Business,Whitebridge,Hazelwood,2.5,,Whitebridge ➝ Hazelwood,November,0 days 23:54:00,Thursday,11,11,Morning
+2016-11-03 12:43:00,2016-11-03 12:49:00,Business,Hazelwood,Whitebridge,2.4,,Hazelwood ➝ Whitebridge,November,0 days 23:54:00,Thursday,11,12,Afternoon
+2016-11-03 13:42:00,2016-11-03 13:47:00,Business,Whitebridge,Westpark Place,1.4,,Whitebridge ➝ Westpark Place,November,0 days 23:55:00,Thursday,11,13,Afternoon
+2016-11-03 14:13:00,2016-11-03 14:26:00,Business,Westpark Place,Whitebridge,1.8,,Westpark Place ➝ Whitebridge,November,0 days 23:47:00,Thursday,11,14,Afternoon
+2016-11-03 18:51:00,2016-11-03 19:08:00,Business,Cary,Morrisville,3.1,Meal/Entertain,Cary ➝ Morrisville,November,0 days 23:43:00,Thursday,11,18,Evening
+2016-11-03 22:46:00,2016-11-03 22:58:00,Business,Morrisville,Cary,3.1,Customer Visit,Morrisville ➝ Cary,November,0 days 23:48:00,Thursday,11,22,Night
+2016-11-04 10:02:00,2016-11-04 10:18:00,Business,Cary,Morrisville,7.9,Temporary Site,Cary ➝ Morrisville,November,0 days 23:44:00,Friday,11,10,Morning
+2016-11-04 18:14:00,2016-11-04 18:21:00,Business,San Jose,Santa Clara,3.8,,San Jose ➝ Santa Clara,November,0 days 23:53:00,Friday,11,18,Evening
+2016-11-04 21:04:00,2016-11-04 21:20:00,Business,Agnew,Cory,4.3,,Agnew ➝ Cory,November,0 days 23:44:00,Friday,11,21,Night
+2016-11-04 22:12:00,2016-11-04 22:25:00,Business,Cory,Agnew,3.9,,Cory ➝ Agnew,November,0 days 23:47:00,Friday,11,22,Night
+2016-11-05 08:34:00,2016-11-05 08:43:00,Business,Agnew,Renaissance,2.2,,Agnew ➝ Renaissance,November,0 days 23:51:00,Saturday,11,8,Morning
+2016-11-05 17:29:00,2016-11-05 17:40:00,Business,Renaissance,Agnew,2.8,,Renaissance ➝ Agnew,November,0 days 23:49:00,Saturday,11,17,Evening
+2016-11-05 19:20:00,2016-11-05 19:28:00,Business,Agnew,Agnew,2.2,,Agnew ➝ Agnew,November,0 days 23:52:00,Saturday,11,19,Evening
+2016-11-06 10:50:00,2016-11-06 11:04:00,Business,Agnew,Renaissance,2.4,,Agnew ➝ Renaissance,November,0 days 23:46:00,Sunday,11,10,Morning
+2016-11-06 16:05:00,2016-11-06 16:22:00,Business,Renaissance,Agnew,2.8,Meeting,Renaissance ➝ Agnew,November,0 days 23:43:00,Sunday,11,16,Afternoon
+2016-11-06 16:27:00,2016-11-06 17:28:00,Business,Santa Clara,Berkeley,43.9,Customer Visit,Santa Clara ➝ Berkeley,November,0 days 22:59:00,Sunday,11,16,Afternoon
+2016-11-06 19:04:00,2016-11-06 19:12:00,Business,Downtown,West Berkeley,1.8,,Downtown ➝ West Berkeley,November,0 days 23:52:00,Sunday,11,19,Evening
+2016-11-06 20:06:00,2016-11-06 20:21:00,Business,West Berkeley,Central,3.3,,West Berkeley ➝ Central,November,0 days 23:45:00,Sunday,11,20,Evening
+2016-11-07 12:28:00,2016-11-07 12:57:00,Business,Berkeley,San Francisco,11.8,Between Offices,Berkeley ➝ San Francisco,November,0 days 23:31:00,Monday,11,12,Afternoon
+2016-11-07 19:17:00,2016-11-07 19:57:00,Business,San Francisco,Berkeley,13.2,Between Offices,San Francisco ➝ Berkeley,November,0 days 23:20:00,Monday,11,19,Evening
+2016-11-08 10:29:00,2016-11-08 10:57:00,Business,Berkeley,San Francisco,12.2,Between Offices,Berkeley ➝ San Francisco,November,0 days 23:32:00,Tuesday,11,10,Morning
+2016-11-08 12:16:00,2016-11-08 12:49:00,Business,San Francisco,Berkeley,11.3,Meeting,San Francisco ➝ Berkeley,November,0 days 23:27:00,Tuesday,11,12,Afternoon
+2016-11-08 13:41:00,2016-11-08 14:01:00,Business,Berkeley,Emeryville,3.6,,Berkeley ➝ Emeryville,November,0 days 23:40:00,Tuesday,11,13,Afternoon
+2016-11-08 16:21:00,2016-11-08 16:34:00,Business,Emeryville,Berkeley,3.0,,Emeryville ➝ Berkeley,November,0 days 23:47:00,Tuesday,11,16,Afternoon
+2016-11-09 13:08:00,2016-11-09 13:41:00,Business,Berkeley,San Francisco,11.4,,Berkeley ➝ San Francisco,November,0 days 23:27:00,Wednesday,11,13,Afternoon
+2016-11-09 15:58:00,2016-11-09 16:04:00,Business,NOMA,Downtown,0.9,,NOMA ➝ Downtown,November,0 days 23:54:00,Wednesday,11,15,Afternoon
+2016-11-09 17:31:00,2016-11-09 18:03:00,Business,Downtown,Sunnyside,6.2,,Downtown ➝ Sunnyside,November,0 days 23:28:00,Wednesday,11,17,Evening
+2016-11-09 18:09:00,2016-11-09 18:14:00,Business,Sunnyside,Ingleside,0.7,,Sunnyside ➝ Ingleside,November,0 days 23:55:00,Wednesday,11,18,Evening
+2016-11-09 18:21:00,2016-11-09 18:35:00,Business,Ingleside,Potrero Flats,5.5,Meeting,Ingleside ➝ Potrero Flats,November,0 days 23:46:00,Wednesday,11,18,Evening
+2016-11-09 18:40:00,2016-11-09 19:17:00,Business,San Francisco,Oakland,12.7,Customer Visit,San Francisco ➝ Oakland,November,0 days 23:23:00,Wednesday,11,18,Evening
+2016-11-09 20:52:00,2016-11-09 21:02:00,Business,Oakland,Berkeley,2.6,,Oakland ➝ Berkeley,November,0 days 23:50:00,Wednesday,11,20,Evening
+2016-11-09 21:56:00,2016-11-09 22:02:00,Business,Central,Central,1.1,,Central ➝ Central,November,0 days 23:54:00,Wednesday,11,21,Night
+2016-11-10 09:46:00,2016-11-10 10:15:00,Business,Berkeley,San Francisco,12.6,Temporary Site,Berkeley ➝ San Francisco,November,0 days 23:31:00,Thursday,11,9,Morning
+2016-11-10 10:20:00,2016-11-10 10:31:00,Business,Tenderloin,SOMISSPO,1.2,,Tenderloin ➝ SOMISSPO,November,0 days 23:49:00,Thursday,11,10,Morning
+2016-11-10 14:57:00,2016-11-10 15:07:00,Business,SOMISSPO,Tenderloin,1.1,,SOMISSPO ➝ Tenderloin,November,0 days 23:50:00,Thursday,11,14,Afternoon
+2016-11-10 15:17:00,2016-11-10 15:22:00,Business,San Francisco,Oakland,9.9,Temporary Site,San Francisco ➝ Oakland,November,0 days 23:55:00,Thursday,11,15,Afternoon
+2016-11-10 15:30:00,2016-11-10 15:53:00,Business,Oakland,Berkeley,6.0,Meeting,Oakland ➝ Berkeley,November,0 days 23:37:00,Thursday,11,15,Afternoon
+2016-11-10 19:18:00,2016-11-10 19:21:00,Business,West Berkeley,Central,0.8,,West Berkeley ➝ Central,November,0 days 23:57:00,Thursday,11,19,Evening
+2016-11-11 09:35:00,2016-11-11 10:23:00,Business,Berkeley,Menlo Park,45.9,Customer Visit,Berkeley ➝ Menlo Park,November,0 days 23:12:00,Friday,11,9,Morning
+2016-11-11 12:58:00,2016-11-11 13:13:00,Business,Menlo Park,Palo Alto,4.0,,Menlo Park ➝ Palo Alto,November,0 days 23:45:00,Friday,11,12,Afternoon
+2016-11-11 14:20:00,2016-11-11 14:32:00,Business,Palo Alto,Menlo Park,2.5,,Palo Alto ➝ Menlo Park,November,0 days 23:48:00,Friday,11,14,Afternoon
+2016-11-11 14:39:00,2016-11-11 15:46:00,Business,Menlo Park,Berkeley,36.6,Customer Visit,Menlo Park ➝ Berkeley,November,0 days 22:53:00,Friday,11,14,Afternoon
+2016-11-11 18:30:00,2016-11-11 18:43:00,Business,Central,College Avenue,2.9,,Central ➝ College Avenue,November,0 days 23:47:00,Friday,11,18,Evening
+2016-11-11 21:08:00,2016-11-11 21:18:00,Business,College Avenue,Central,2.6,,College Avenue ➝ Central,November,0 days 23:50:00,Friday,11,21,Night
+2016-11-12 10:32:00,2016-11-12 10:52:00,Business,Central,South,2.3,,Central ➝ South,November,0 days 23:40:00,Saturday,11,10,Morning
+2016-11-12 10:55:00,2016-11-12 11:25:00,Business,South,Downtown,6.4,,South ➝ Downtown,November,0 days 23:30:00,Saturday,11,10,Morning
+2016-11-12 13:07:00,2016-11-12 13:15:00,Business,Downtown,Central,1.4,,Downtown ➝ Central,November,0 days 23:52:00,Saturday,11,13,Afternoon
+2016-11-12 13:46:00,2016-11-12 13:50:00,Business,Central,West Berkeley,0.6,,Central ➝ West Berkeley,November,0 days 23:56:00,Saturday,11,13,Afternoon
+2016-11-12 14:22:00,2016-11-12 14:53:00,Business,West Berkeley,South,5.9,Meeting,West Berkeley ➝ South,November,0 days 23:29:00,Saturday,11,14,Afternoon
+2016-11-12 15:14:00,2016-11-12 15:21:00,Business,South,Southwest Berkeley,0.8,,South ➝ Southwest Berkeley,November,0 days 23:53:00,Saturday,11,15,Afternoon
+2016-11-12 15:25:00,2016-11-12 15:36:00,Business,Berkeley,Emeryville,1.3,,Berkeley ➝ Emeryville,November,0 days 23:49:00,Saturday,11,15,Afternoon
+2016-11-12 15:40:00,2016-11-12 15:59:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,Emeryville ➝ Berkeley,November,0 days 23:41:00,Saturday,11,15,Afternoon
+2016-11-13 08:54:00,2016-11-13 09:02:00,Business,Central,Central,2.3,,Central ➝ Central,November,0 days 23:52:00,Sunday,11,8,Morning
+2016-11-13 09:27:00,2016-11-13 09:53:00,Business,Central,Central,2.6,,Central ➝ Central,November,0 days 23:34:00,Sunday,11,9,Morning
+2016-11-13 10:31:00,2016-11-13 10:37:00,Business,Central,Southside,1.9,,Central ➝ Southside,November,0 days 23:54:00,Sunday,11,10,Morning
+2016-11-13 11:04:00,2016-11-13 11:16:00,Business,Southside,West Berkeley,2.1,,Southside ➝ West Berkeley,November,0 days 23:48:00,Sunday,11,11,Morning
+2016-11-13 12:22:00,2016-11-13 12:51:00,Business,West Berkeley,Southside,4.0,Meeting,West Berkeley ➝ Southside,November,0 days 23:31:00,Sunday,11,12,Afternoon
+2016-11-13 13:05:00,2016-11-13 13:11:00,Business,Southside,South Berkeley,0.9,,Southside ➝ South Berkeley,November,0 days 23:54:00,Sunday,11,13,Afternoon
+2016-11-13 13:14:00,2016-11-13 13:18:00,Business,South Berkeley,Southside,0.9,,South Berkeley ➝ Southside,November,0 days 23:56:00,Sunday,11,13,Afternoon
+2016-11-13 14:35:00,2016-11-13 14:46:00,Business,Southside,Central,2.4,,Southside ➝ Central,November,0 days 23:49:00,Sunday,11,14,Afternoon
+2016-11-13 15:14:00,2016-11-13 15:24:00,Business,Central,Southside,1.9,,Central ➝ Southside,November,0 days 23:50:00,Sunday,11,15,Afternoon
+2016-11-13 15:47:00,2016-11-13 15:59:00,Business,Southside,Central,1.9,,Southside ➝ Central,November,0 days 23:48:00,Sunday,11,15,Afternoon
+2016-11-14 11:24:00,2016-11-14 12:13:00,Business,Berkeley,Mountain View,44.6,Customer Visit,Berkeley ➝ Mountain View,November,0 days 23:11:00,Monday,11,11,Morning
+2016-11-14 13:40:00,2016-11-14 14:33:00,Business,Mountain View,Berkeley,43.6,Customer Visit,Mountain View ➝ Berkeley,November,0 days 23:07:00,Monday,11,13,Afternoon
+2016-11-14 15:27:00,2016-11-14 15:36:00,Business,Berkeley,Emeryville,2.5,,Berkeley ➝ Emeryville,November,0 days 23:51:00,Monday,11,15,Afternoon
+2016-11-14 20:19:00,2016-11-14 20:30:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,Emeryville ➝ Berkeley,November,0 days 23:49:00,Monday,11,20,Evening
+2016-11-15 13:59:00,2016-11-15 14:06:00,Business,Berkeley,Oakland,5.1,,Berkeley ➝ Oakland,November,0 days 23:53:00,Tuesday,11,13,Afternoon
+2016-11-15 14:09:00,2016-11-15 14:26:00,Business,Oakland,San Francisco,9.7,Temporary Site,Oakland ➝ San Francisco,November,0 days 23:43:00,Tuesday,11,14,Afternoon
+2016-11-15 20:44:00,2016-11-15 21:00:00,Business,San Francisco,Berkeley,11.8,Temporary Site,San Francisco ➝ Berkeley,November,0 days 23:44:00,Tuesday,11,20,Evening
+2016-11-16 20:21:00,2016-11-16 20:27:00,Business,Berkeley,El Cerrito,2.3,Temporary Site,Berkeley ➝ El Cerrito,November,0 days 23:54:00,Wednesday,11,20,Evening
+2016-11-16 22:52:00,2016-11-16 23:02:00,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,El Cerrito ➝ Berkeley,November,0 days 23:50:00,Wednesday,11,22,Night
+2016-11-17 10:13:00,2016-11-17 10:44:00,Business,Berkeley,Oakland,16.3,Customer Visit,Berkeley ➝ Oakland,November,0 days 23:29:00,Thursday,11,10,Morning
+2016-11-18 20:09:00,2016-11-18 20:19:00,Business,Cary,Morrisville,3.1,Meal/Entertain,Cary ➝ Morrisville,November,0 days 23:50:00,Friday,11,20,Evening
+2016-11-18 21:23:00,2016-11-18 21:34:00,Business,Morrisville,Cary,5.2,Meal/Entertain,Morrisville ➝ Cary,November,0 days 23:49:00,Friday,11,21,Night
+2016-11-18 21:56:00,2016-11-18 22:21:00,Business,Krendle Woods,Whitebridge,6.1,Meeting,Krendle Woods ➝ Whitebridge,November,0 days 23:35:00,Friday,11,21,Night
+2016-11-19 13:51:00,2016-11-19 14:10:00,Business,Cary,Durham,10.3,Meeting,Cary ➝ Durham,November,0 days 23:41:00,Saturday,11,13,Afternoon
+2016-11-19 14:30:00,2016-11-19 14:51:00,Business,Durham,Cary,10.5,Meeting,Durham ➝ Cary,November,0 days 23:39:00,Saturday,11,14,Afternoon
+2016-11-19 16:01:00,2016-11-19 16:06:00,Business,Cary,Cary,1.5,,Cary ➝ Cary,November,0 days 23:55:00,Saturday,11,16,Afternoon
+2016-11-19 16:27:00,2016-11-19 16:41:00,Business,Cary,Cary,1.8,,Cary ➝ Cary,November,0 days 23:46:00,Saturday,11,16,Afternoon
+2016-11-19 17:41:00,2016-11-19 17:54:00,Business,Cary,Apex,5.4,Errand/Supplies,Cary ➝ Apex,November,0 days 23:47:00,Saturday,11,17,Evening
+2016-11-19 21:14:00,2016-11-19 21:35:00,Business,Apex,Cary,5.4,Customer Visit,Apex ➝ Cary,November,0 days 23:39:00,Saturday,11,21,Night
+2016-11-20 10:27:00,2016-11-20 11:32:00,Business,Cary,Cary,39.2,Between Offices,Cary ➝ Cary,November,0 days 22:55:00,Sunday,11,10,Morning
+2016-11-20 11:58:00,2016-11-20 12:28:00,Business,Cary,Cary,6.4,Customer Visit,Cary ➝ Cary,November,0 days 23:30:00,Sunday,11,11,Morning
+2016-11-20 14:58:00,2016-11-20 15:07:00,Business,Cary,Cary,2.7,Meeting,Cary ➝ Cary,November,0 days 23:51:00,Sunday,11,14,Afternoon
+2016-11-20 17:45:00,2016-11-20 18:37:00,Business,Cary,Cary,18.5,Errand/Supplies,Cary ➝ Cary,November,0 days 23:08:00,Sunday,11,17,Evening
+2016-11-21 13:37:00,2016-11-21 13:49:00,Business,Cary,Cary,2.5,Meal/Entertain,Cary ➝ Cary,November,0 days 23:48:00,Monday,11,13,Afternoon
+2016-11-21 14:34:00,2016-11-21 14:44:00,Business,Cary,Cary,2.1,Meal/Entertain,Cary ➝ Cary,November,0 days 23:50:00,Monday,11,14,Afternoon
+2016-11-21 18:43:00,2016-11-21 18:51:00,Business,Morrisville,Cary,3.4,Errand/Supplies,Morrisville ➝ Cary,November,0 days 23:52:00,Monday,11,18,Evening
+2016-11-22 15:12:00,2016-11-22 15:27:00,Business,Cary,Cary,5.5,Meeting,Cary ➝ Cary,November,0 days 23:45:00,Tuesday,11,15,Afternoon
+2016-11-22 15:31:00,2016-11-22 15:44:00,Business,Cary,Cary,4.1,Meeting,Cary ➝ Cary,November,0 days 23:47:00,Tuesday,11,15,Afternoon
+2016-11-22 15:51:00,2016-11-22 16:43:00,Business,Cary,Cary,12.7,Customer Visit,Cary ➝ Cary,November,0 days 23:08:00,Tuesday,11,15,Afternoon
+2016-11-22 18:18:00,2016-11-22 18:28:00,Business,Cary,Morrisville,3.0,Meal/Entertain,Cary ➝ Morrisville,November,0 days 23:50:00,Tuesday,11,18,Evening
+2016-11-22 21:02:00,2016-11-22 21:14:00,Business,Morrisville,Cary,3.5,Customer Visit,Morrisville ➝ Cary,November,0 days 23:48:00,Tuesday,11,21,Night
+2016-11-23 15:34:00,2016-11-23 15:50:00,Business,Cary,Cary,5.9,Meal/Entertain,Cary ➝ Cary,November,0 days 23:44:00,Wednesday,11,15,Afternoon
+2016-11-23 16:18:00,2016-11-23 16:29:00,Business,Cary,Cary,1.9,,Cary ➝ Cary,November,0 days 23:49:00,Wednesday,11,16,Afternoon
+2016-11-23 16:49:00,2016-11-23 17:00:00,Business,Cary,Cary,3.3,,Cary ➝ Cary,November,0 days 23:49:00,Wednesday,11,16,Afternoon
+2016-11-23 18:37:00,2016-11-23 18:47:00,Business,Cary,Cary,1.3,,Cary ➝ Cary,November,0 days 23:50:00,Wednesday,11,18,Evening
+2016-11-25 11:47:00,2016-11-25 12:04:00,Business,Cary,Durham,10.3,Meeting,Cary ➝ Durham,November,0 days 23:43:00,Friday,11,11,Morning
+2016-11-25 13:13:00,2016-11-25 13:31:00,Business,Durham,Cary,11.1,Meeting,Durham ➝ Cary,November,0 days 23:42:00,Friday,11,13,Afternoon
+2016-11-26 15:54:00,2016-11-26 15:59:00,Business,Cary,Cary,1.4,,Cary ➝ Cary,November,0 days 23:55:00,Saturday,11,15,Afternoon
+2016-11-26 17:00:00,2016-11-26 17:12:00,Business,Cary,Apex,5.1,Meeting,Cary ➝ Apex,November,0 days 23:48:00,Saturday,11,17,Evening
+2016-11-26 17:36:00,2016-11-26 17:56:00,Business,Apex,Holly Springs,9.0,Meeting,Apex ➝ Holly Springs,November,0 days 23:40:00,Saturday,11,17,Evening
+2016-11-26 18:29:00,2016-11-26 19:04:00,Business,Holly Springs,Cary,13.3,Between Offices,Holly Springs ➝ Cary,November,0 days 23:25:00,Saturday,11,18,Evening
+2016-11-26 19:47:00,2016-11-26 19:54:00,Business,Cary,Cary,2.5,Errand/Supplies,Cary ➝ Cary,November,0 days 23:53:00,Saturday,11,19,Evening
+2016-11-27 15:59:00,2016-11-27 16:06:00,Business,Cary,Morrisville,3.3,Meal/Entertain,Cary ➝ Morrisville,November,0 days 23:53:00,Sunday,11,15,Afternoon
+2016-11-27 18:55:00,2016-11-27 19:09:00,Business,Morrisville,Cary,2.9,,Morrisville ➝ Cary,November,0 days 23:46:00,Sunday,11,18,Evening
+2016-11-30 11:03:00,2016-11-30 11:34:00,Business,Cary,Raleigh,8.5,Customer Visit,Cary ➝ Raleigh,November,0 days 23:29:00,Wednesday,11,11,Morning
+2016-11-30 11:53:00,2016-11-30 12:35:00,Business,Raleigh,Morrisville,6.7,Temporary Site,Raleigh ➝ Morrisville,November,0 days 23:18:00,Wednesday,11,11,Morning
+2016-11-30 12:43:00,2016-11-30 12:53:00,Business,Morrisville,Cary,3.1,,Morrisville ➝ Cary,November,0 days 23:50:00,Wednesday,11,12,Afternoon
+2016-12-01 07:44:00,2016-12-01 07:59:00,Business,Cary,Cary,5.5,Meeting,Cary ➝ Cary,December,0 days 23:45:00,Thursday,12,7,Morning
+2016-12-01 08:37:00,2016-12-01 08:53:00,Business,Cary,Cary,5.5,Errand/Supplies,Cary ➝ Cary,December,0 days 23:44:00,Thursday,12,8,Morning
+2016-12-01 18:00:00,2016-12-01 18:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain,Cary ➝ Morrisville,December,0 days 23:48:00,Thursday,12,18,Evening
+2016-12-01 20:36:00,2016-12-01 20:46:00,Business,Morrisville,Cary,2.9,Customer Visit,Morrisville ➝ Cary,December,0 days 23:50:00,Thursday,12,20,Evening
+2016-12-02 12:12:00,2016-12-02 12:23:00,Business,Cary,Apex,5.1,Meal/Entertain,Cary ➝ Apex,December,0 days 23:49:00,Friday,12,12,Afternoon
+2016-12-02 13:07:00,2016-12-02 13:22:00,Business,Apex,Cary,5.3,Customer Visit,Apex ➝ Cary,December,0 days 23:45:00,Friday,12,13,Afternoon
+2016-12-02 20:41:00,2016-12-02 20:48:00,Business,Cary,Morrisville,3.3,Meal/Entertain,Cary ➝ Morrisville,December,0 days 23:53:00,Friday,12,20,Evening
+2016-12-02 22:59:00,2016-12-02 23:07:00,Business,Morrisville,Cary,3.0,Customer Visit,Morrisville ➝ Cary,December,0 days 23:52:00,Friday,12,22,Night
+2016-12-03 18:35:00,2016-12-03 18:56:00,Business,Cary,Wake Co.,6.6,Errand/Supplies,Cary ➝ Wake Co.,December,0 days 23:39:00,Saturday,12,18,Evening
+2016-12-03 19:08:00,2016-12-03 19:15:00,Business,Wake Co.,Morrisville,1.8,,Wake Co. ➝ Morrisville,December,0 days 23:53:00,Saturday,12,19,Evening
+2016-12-03 20:31:00,2016-12-03 20:41:00,Business,Morrisville,Cary,3.0,Customer Visit,Morrisville ➝ Cary,December,0 days 23:50:00,Saturday,12,20,Evening
+2016-12-04 18:56:00,2016-12-04 19:03:00,Business,Cary,Morrisville,2.9,Meal/Entertain,Cary ➝ Morrisville,December,0 days 23:53:00,Sunday,12,18,Evening
+2016-12-04 20:23:00,2016-12-04 20:34:00,Business,Morrisville,Cary,3.4,Customer Visit,Morrisville ➝ Cary,December,0 days 23:49:00,Sunday,12,20,Evening
+2016-12-05 18:04:00,2016-12-05 18:17:00,Business,Cary,Cary,4.1,,Cary ➝ Cary,December,0 days 23:47:00,Monday,12,18,Evening
+2016-12-05 19:22:00,2016-12-05 19:37:00,Business,Cary,Cary,3.8,Meal/Entertain,Cary ➝ Cary,December,0 days 23:45:00,Monday,12,19,Evening
+2016-12-07 12:03:00,2016-12-07 12:32:00,Business,Cary,Cary,6.6,Meeting,Cary ➝ Cary,December,0 days 23:31:00,Wednesday,12,12,Afternoon
+2016-12-07 12:35:00,2016-12-07 12:46:00,Business,Cary,Cary,4.0,Meeting,Cary ➝ Cary,December,0 days 23:49:00,Wednesday,12,12,Afternoon
+2016-12-07 19:53:00,2016-12-07 20:13:00,Business,Cary,Cary,7.0,Customer Visit,Cary ➝ Cary,December,0 days 23:40:00,Wednesday,12,19,Evening
+2016-12-07 21:13:00,2016-12-07 21:50:00,Business,Cary,Cary,6.9,Meal/Entertain,Cary ➝ Cary,December,0 days 23:23:00,Wednesday,12,21,Night
+2016-12-08 14:19:00,2016-12-08 14:32:00,Business,Cary,Cary,3.4,Errand/Supplies,Cary ➝ Cary,December,0 days 23:47:00,Thursday,12,14,Afternoon
+2016-12-08 14:53:00,2016-12-08 15:02:00,Business,Cary,Cary,3.4,Errand/Supplies,Cary ➝ Cary,December,0 days 23:51:00,Thursday,12,14,Afternoon
+2016-12-08 19:22:00,2016-12-08 19:27:00,Business,Cary,Cary,2.0,Meeting,Cary ➝ Cary,December,0 days 23:55:00,Thursday,12,19,Evening
+2016-12-08 21:26:00,2016-12-08 21:31:00,Business,Cary,Cary,2.0,Errand/Supplies,Cary ➝ Cary,December,0 days 23:55:00,Thursday,12,21,Night
+2016-12-09 12:09:00,2016-12-09 12:24:00,Business,Cary,Apex,5.1,Errand/Supplies,Cary ➝ Apex,December,0 days 23:45:00,Friday,12,12,Afternoon
+2016-12-09 13:15:00,2016-12-09 13:43:00,Business,Apex,Cary,8.8,Temporary Site,Apex ➝ Cary,December,0 days 23:32:00,Friday,12,13,Afternoon
+2016-12-09 20:11:00,2016-12-09 20:34:00,Business,Cary,Cary,5.6,Meeting,Cary ➝ Cary,December,0 days 23:37:00,Friday,12,20,Evening
+2016-12-09 22:03:00,2016-12-09 22:57:00,Business,Cary,Cary,18.9,Customer Visit,Cary ➝ Cary,December,0 days 23:06:00,Friday,12,22,Night
+2016-12-10 12:43:00,2016-12-10 13:16:00,Business,Cary,Fuquay-Varina,15.6,Meeting,Cary ➝ Fuquay-Varina,December,0 days 23:27:00,Saturday,12,12,Afternoon
+2016-12-10 14:42:00,2016-12-10 15:18:00,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies,Fuquay-Varina ➝ Cary,December,0 days 23:24:00,Saturday,12,14,Afternoon
+2016-12-10 18:17:00,2016-12-10 18:27:00,Business,Cary,Morrisville,3.0,Meal/Entertain,Cary ➝ Morrisville,December,0 days 23:50:00,Saturday,12,18,Evening
+2016-12-10 22:09:00,2016-12-10 22:21:00,Business,Morrisville,Cary,3.1,Customer Visit,Morrisville ➝ Cary,December,0 days 23:48:00,Saturday,12,22,Night
+2016-12-11 16:06:00,2016-12-11 16:16:00,Business,Cary,Morrisville,3.0,Meal/Entertain,Cary ➝ Morrisville,December,0 days 23:50:00,Sunday,12,16,Afternoon
+2016-12-11 19:05:00,2016-12-11 19:15:00,Business,Morrisville,Cary,4.8,Errand/Supplies,Morrisville ➝ Cary,December,0 days 23:50:00,Sunday,12,19,Evening
+2016-12-11 21:48:00,2016-12-11 21:56:00,Business,Cary,Cary,2.1,Errand/Supplies,Cary ➝ Cary,December,0 days 23:52:00,Sunday,12,21,Night
+2016-12-12 13:22:00,2016-12-12 13:32:00,Business,Cary,Cary,3.1,Errand/Supplies,Cary ➝ Cary,December,0 days 23:50:00,Monday,12,13,Afternoon
+2016-12-12 13:36:00,2016-12-12 13:51:00,Business,Cary,Apex,4.4,Meal/Entertain,Cary ➝ Apex,December,0 days 23:45:00,Monday,12,13,Afternoon
+2016-12-12 14:26:00,2016-12-12 14:39:00,Business,Apex,Cary,4.7,Customer Visit,Apex ➝ Cary,December,0 days 23:47:00,Monday,12,14,Afternoon
+2016-12-12 17:51:00,2016-12-12 18:01:00,Business,Cary,Morrisville,3.0,Meal/Entertain,Cary ➝ Morrisville,December,0 days 23:50:00,Monday,12,17,Evening
+2016-12-12 20:48:00,2016-12-12 20:57:00,Business,Morrisville,Cary,3.0,Customer Visit,Morrisville ➝ Cary,December,0 days 23:51:00,Monday,12,20,Evening
+2016-12-13 18:19:00,2016-12-13 18:29:00,Business,Cary,Cary,4.2,Errand/Supplies,Cary ➝ Cary,December,0 days 23:50:00,Tuesday,12,18,Evening
+2016-12-13 20:20:00,2016-12-13 20:29:00,Business,Cary,Cary,4.1,Meal/Entertain,Cary ➝ Cary,December,0 days 23:51:00,Tuesday,12,20,Evening
+2016-12-14 16:52:00,2016-12-14 17:10:00,Business,Cary,Cary,3.4,,Cary ➝ Cary,December,0 days 23:42:00,Wednesday,12,16,Afternoon
+2016-12-14 17:22:00,2016-12-14 17:34:00,Business,Cary,Cary,3.3,,Cary ➝ Cary,December,0 days 23:48:00,Wednesday,12,17,Evening
+2016-12-14 17:50:00,2016-12-14 18:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,Cary ➝ Morrisville,December,0 days 23:50:00,Wednesday,12,17,Evening
+2016-12-14 20:24:00,2016-12-14 20:40:00,Business,Morrisville,Cary,3.1,Customer Visit,Morrisville ➝ Cary,December,0 days 23:44:00,Wednesday,12,20,Evening
+2016-12-15 14:20:00,2016-12-15 14:54:00,Business,Cary,Morrisville,10.6,Meeting,Cary ➝ Morrisville,December,0 days 23:26:00,Thursday,12,14,Afternoon
+2016-12-19 10:15:00,2016-12-19 10:34:00,Business,Islamabad,Rawalpindi,5.9,Temporary Site,Islamabad ➝ Rawalpindi,December,0 days 23:41:00,Monday,12,10,Morning
+2016-12-19 16:50:00,2016-12-19 17:09:00,Business,Rawalpindi,Islamabad,7.2,Customer Visit,Rawalpindi ➝ Islamabad,December,0 days 23:41:00,Monday,12,16,Afternoon
+2016-12-20 10:30:00,2016-12-20 10:48:00,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,Rawalpindi ➝ Rawalpindi,December,0 days 23:42:00,Tuesday,12,10,Morning
+2016-12-20 16:14:00,2016-12-20 16:24:00,Business,Islamabad,Islamabad,1.8,Errand/Supplies,Islamabad ➝ Islamabad,December,0 days 23:50:00,Tuesday,12,16,Afternoon
+2016-12-20 16:56:00,2016-12-20 17:07:00,Business,Islamabad,Islamabad,1.4,Errand/Supplies,Islamabad ➝ Islamabad,December,0 days 23:49:00,Tuesday,12,16,Afternoon
+2016-12-21 17:45:00,2016-12-21 17:54:00,Business,Islamabad,Islamabad,2.1,Meeting,Islamabad ➝ Islamabad,December,0 days 23:51:00,Wednesday,12,17,Evening
+2016-12-22 21:41:00,2016-12-22 21:53:00,Business,Lahore,Lahore,2.1,Meal/Entertain,Lahore ➝ Lahore,December,0 days 23:48:00,Thursday,12,21,Night
+2016-12-22 23:27:00,2016-12-22 23:32:00,Business,Lahore,Lahore,2.1,Customer Visit,Lahore ➝ Lahore,December,0 days 23:55:00,Thursday,12,23,Night
+2016-12-23 09:21:00,2016-12-23 09:41:00,Business,Lahore,Lahore,3.0,Meeting,Lahore ➝ Lahore,December,0 days 23:40:00,Friday,12,9,Morning
+2016-12-24 10:34:00,2016-12-24 10:53:00,Business,Lahore,Lahore,5.3,Meal/Entertain,Lahore ➝ Lahore,December,0 days 23:41:00,Saturday,12,10,Morning
+2016-12-24 12:51:00,2016-12-24 12:53:00,Business,Lahore,Lahore,1.6,Errand/Supplies,Lahore ➝ Lahore,December,0 days 23:58:00,Saturday,12,12,Afternoon
+2016-12-24 13:08:00,2016-12-24 13:29:00,Business,Lahore,Lahore,3.6,Errand/Supplies,Lahore ➝ Lahore,December,0 days 23:39:00,Saturday,12,13,Afternoon
+2016-12-24 17:12:00,2016-12-24 17:27:00,Business,Lahore,Lahore,1.7,Errand/Supplies,Lahore ➝ Lahore,December,0 days 23:45:00,Saturday,12,17,Evening
+2016-12-24 19:12:00,2016-12-24 19:27:00,Business,Lahore,Lahore,2.9,Meal/Entertain,Lahore ➝ Lahore,December,0 days 23:45:00,Saturday,12,19,Evening
+2016-12-24 22:04:00,2016-12-24 22:09:00,Business,Lahore,Lahore,0.6,Errand/Supplies,Lahore ➝ Lahore,December,0 days 23:55:00,Saturday,12,22,Night
+2016-12-25 00:10:00,2016-12-25 00:14:00,Business,Lahore,Lahore,0.6,Errand/Supplies,Lahore ➝ Lahore,December,0 days 23:56:00,Sunday,12,0,Night
+2016-12-25 19:15:00,2016-12-25 19:26:00,Business,Lahore,Lahore,2.3,Meal/Entertain,Lahore ➝ Lahore,December,0 days 23:49:00,Sunday,12,19,Evening
+2016-12-25 21:58:00,2016-12-25 22:04:00,Business,Lahore,Lahore,2.3,Meal/Entertain,Lahore ➝ Lahore,December,0 days 23:54:00,Sunday,12,21,Night
+2016-12-26 08:30:00,2016-12-26 08:41:00,Business,Lahore,Lahore,3.2,Meal/Entertain,Lahore ➝ Lahore,December,0 days 23:49:00,Monday,12,8,Morning
+2016-12-26 09:05:00,2016-12-26 09:19:00,Business,Lahore,Lahore,6.2,Customer Visit,Lahore ➝ Lahore,December,0 days 23:46:00,Monday,12,9,Morning
+2016-12-26 10:15:00,2016-12-26 10:36:00,Business,Lahore,Lahore,7.7,Customer Visit,Lahore ➝ Lahore,December,0 days 23:39:00,Monday,12,10,Morning
+2016-12-26 11:29:00,2016-12-26 11:42:00,Business,Lahore,Lahore,3.8,Customer Visit,Lahore ➝ Lahore,December,0 days 23:47:00,Monday,12,11,Morning
+2016-12-27 07:02:00,2016-12-27 07:14:00,Business,Karachi,Karachi,4.9,Temporary Site,Karachi ➝ Karachi,December,0 days 23:48:00,Tuesday,12,7,Morning
+2016-12-27 08:37:00,2016-12-27 08:59:00,Business,Karachi,Karachi,5.0,Meal/Entertain,Karachi ➝ Karachi,December,0 days 23:38:00,Tuesday,12,8,Morning
+2016-12-27 12:53:00,2016-12-27 12:57:00,Business,Karachi,Karachi,0.6,Meal/Entertain,Karachi ➝ Karachi,December,0 days 23:56:00,Tuesday,12,12,Afternoon
+2016-12-27 19:19:00,2016-12-27 19:50:00,Business,Karachi,Karachi,5.5,Customer Visit,Karachi ➝ Karachi,December,0 days 23:29:00,Tuesday,12,19,Evening
+2016-12-28 13:53:00,2016-12-28 14:01:00,Business,Karachi,Karachi,2.0,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:52:00,Wednesday,12,13,Afternoon
+2016-12-28 18:33:00,2016-12-28 18:56:00,Business,Karachi,Karachi,3.8,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:37:00,Wednesday,12,18,Evening
+2016-12-28 22:44:00,2016-12-28 23:18:00,Business,Karachi,Karachi,5.1,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:26:00,Wednesday,12,22,Night
+2016-12-29 00:49:00,2016-12-29 01:06:00,Business,Karachi,Karachi,3.8,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:43:00,Thursday,12,0,Night
+2016-12-29 12:25:00,2016-12-29 12:33:00,Business,Karachi,Karachi,1.4,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:52:00,Thursday,12,12,Afternoon
+2016-12-29 13:17:00,2016-12-29 13:24:00,Business,Karachi,Karachi,1.1,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:53:00,Thursday,12,13,Afternoon
+2016-12-29 13:56:00,2016-12-29 14:11:00,Business,Karachi,Karachi,4.1,Airport/Travel,Karachi ➝ Karachi,December,0 days 23:45:00,Thursday,12,13,Afternoon
+2016-12-29 14:42:00,2016-12-29 14:58:00,Business,Karachi,Karachi,6.1,Between Offices,Karachi ➝ Karachi,December,0 days 23:44:00,Thursday,12,14,Afternoon
+2016-12-29 15:05:00,2016-12-29 15:16:00,Business,Karachi,Karachi,1.3,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:49:00,Thursday,12,15,Afternoon
+2016-12-29 20:15:00,2016-12-29 20:45:00,Business,Karachi,Karachi,7.2,Meeting,Karachi ➝ Karachi,December,0 days 23:30:00,Thursday,12,20,Evening
+2016-12-30 10:15:00,2016-12-30 10:33:00,Business,Karachi,Karachi,2.8,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:42:00,Friday,12,10,Morning
+2016-12-30 11:31:00,2016-12-30 11:56:00,Business,Karachi,Karachi,2.9,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:35:00,Friday,12,11,Morning
+2016-12-30 15:41:00,2016-12-30 16:03:00,Business,Karachi,Karachi,4.6,Errand/Supplies,Karachi ➝ Karachi,December,0 days 23:38:00,Friday,12,15,Afternoon
+2016-12-30 16:45:00,2016-12-30 17:08:00,Business,Karachi,Karachi,4.6,Meeting,Karachi ➝ Karachi,December,0 days 23:37:00,Friday,12,16,Afternoon
+2016-12-30 23:06:00,2016-12-30 23:10:00,Business,Karachi,Karachi,0.8,Customer Visit,Karachi ➝ Karachi,December,0 days 23:56:00,Friday,12,23,Night
+2016-12-31 01:07:00,2016-12-31 01:14:00,Business,Karachi,Karachi,0.7,Meeting,Karachi ➝ Karachi,December,0 days 23:53:00,Saturday,12,1,Night
+2016-12-31 21:32:00,2016-12-31 21:50:00,Business,Katunayake,Gampaha,6.4,Temporary Site,Katunayake ➝ Gampaha,December,0 days 23:42:00,Saturday,12,21,Night
+2016-12-31 22:08:00,2016-12-31 23:51:00,Business,Gampaha,Ilukwatta,48.2,Temporary Site,Gampaha ➝ Ilukwatta,December,0 days 22:17:00,Saturday,12,22,Night
