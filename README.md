@@ -1,57 +1,50 @@
-# uber trip-data-analysis-project
-Data Analysis Project using Python Pandas, Numpy,  Matplotlib and Seaborn on Uber dataset.
+# Uber Trip Data Analysis Project
+
+A data analysis project using Python, Pandas, NumPy, Matplotlib and Seaborn to clean, explore, and visualize Uber trip data.
 
 
-#Project Overview
 
-This project analyzes Uber trip data to clean, process, and extract meaningful insights using Python (Pandas, NumPy, Matplotlib, Seaborn). The dataset provided was uncleaned, and this project demonstrates data cleaning, feature engineering, and visualization to understand trip patterns.
+## Project Overview
 
-✅ Tasks Performed
-
-Data cleaning (handling null values, duplicates)
-
-Feature engineering (miles per trip, trip duration, previous month comparison, etc.)
-
-Exploratory Data Analysis (EDA)
-
-Data visualization (bar plots, line charts, histograms)
+This repository contains a complete exploratory data analysis (EDA) pipeline for an Uber trip dataset. The analysis includes data cleaning, feature engineering, outlier handling, and visualizations to reveal trip patterns and key insights.
 
 
-📂 Files in this Repository
+## Files in this Repository
 
-Uber Data Analysis.ipynb → Main analysis notebook
-
-uber_trip_data_cleaned.csv → Cleaned dataset
-
-UberDataset.csv → Raw dataset (optional)
+- Uber Data Analysis.ipynb — Main analysis notebook (step-by-step EDA & visualizations)  
+- uber_trip_data_cleaned.csv — Cleaned dataset used for analysis  
+- UberDataset.csv — Raw dataset (optional)
 
 
-🧠 Technologies Used
+## Technologies & Tools
 
-Python
-Pandas
-NumPy
-Matplotlib / Seaborn
-Jupyter Notebook
-
-
-📊 Key Insights
-
-Average miles per trip
-
-Peak trip hours
-
-Month-wise trends
-
-Outlier detection
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Jupyter Notebook (can run inside VS Code)
 
 
-💻 How to Use
+## Key Tasks Performed
+
+- Data cleaning (handle null values, remove duplicates)  
+- Feature engineering (miles per trip, trip duration, month comparisons, etc.)  
+- Exploratory data analysis (EDA)  
+- Visualization (bar plots, line charts, histograms)  
+- Outlier detection and treatment  
+- Deriving actionable insights from trip data
+
+
+## Key Insights (examples)
+
+- Average miles per trip  
+- Peak trip hours and hourly demand patterns  
+- Month-wise trends and seasonality  
+- Outlier identification and impact on statistics
+
+
+## How to Use
 
 1. Clone the repository:
-
+...bash
 git clone https://github.com/AhsanCodes-DA/uber-data-analysis-project.git
-
-2. Open Uber Data Analysis.ipynb in Jupyter Notebook or VS Code.
-
-3. Run the cells step by step to see the data cleaning, analysis, and visualizations.
